@@ -63,11 +63,23 @@ def main():
     # Define your schema prompt based on your beat - CUSTOMIZE THIS!
     schema_prompt = """
     {
-      "people": ["Wes Moore", "Brandon Scott"],
-      "geographic_focus": "Baltimore City",
-      "key_institutions": ["U.S. Army Corps of Engineers", "Su Casa Furniture"],
-      "beat_specific_field": ["government", "business"]
-      "issue_type": ["gun violence", "drugs", "infrastructure"]
+    "people": {
+        "elected_officials": ["Wes Moore", "Brandon Scott"],
+        "community_leaders": [],
+        "other_newsmakers": [] 
+    },
+    "geographic_focus": "Baltimore City",
+    "key_institutions": {
+        "government": ["Baltimore City Council"],
+        "military": ["U.S. Army Corps of Engineers"], 
+        "nonprofits": ["Su Casa Furniture"],
+        "businesses": ["&Pizza"],
+        "education": ["Johns Hopkins University"],
+        "healthcare": ["Lifebridge Health Center"]
+  },      "beat_specific_field": ["government", "business"],
+      "issue_type": ["gun violence", "drugs", "infrastructure"],
+      "equity_angle": ["racial inequality", "economic inequality", "environmental justice"],
+      "data_elements": ["contains statistics", "public records", "visualized data"]
     }
     """
 

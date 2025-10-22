@@ -14,7 +14,7 @@ Baltimore City and Baltimore (the county) get the most coverage by far. Only one
 For the most part there is a wide variety in CNS coverage of Baltimore. Only a few institutions/organizations appear multiple times. Subjects written about include high schools in the city, branches of local government, and notable venues in the city such as the Pimlico Race Course.
 
 ** copy paste for prototype**
-cat prompt.txt enhanced_beat_stories.json | uv run llm -m anthropic/claude-opus-4-0 > prototype.md
+cat prompt.txt enhanced_beat_stories.json | uv run llm -m anthropic/claude-opus-4-0 > revised.md
 
 - What did the structured metadata reveal about this beat?
 It revealed key people, locations, organizations, and issues in the city.
