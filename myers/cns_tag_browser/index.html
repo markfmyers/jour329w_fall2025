@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CNS Tag Directory</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; }
+        h1 { color: #2c3e50; }
+        .controls { margin-bottom: 1.5em; }
+        .controls input[type="text"] { padding: 0.5em; width: 300px; }
+        .controls label { margin-left: 1em; }
+        .controls button, .controls select { margin-left: 0.5em; padding: 0.5em 1em; }
+        .tag-grid { display: flex; flex-wrap: wrap; gap: 12px; }
+        .tag-tile {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 0.8em 1.2em;
+            min-width: 120px;
+            text-align: center;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+            cursor: pointer;
+            transition: box-shadow 0.2s, background 0.2s;
+        }
+        .tag-tile:hover {
+            background: #eaf6ff;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        }
+        .tag-name { font-weight: bold; color: #0074d9; }
+        .tag-count { font-size: 0.9em; color: #555; }
+        .no-tags { color: #888; margin-top: 2em; }
+    </style>
+</head>
+<body>
+    <h1>CNS Tag Directory</h1>
+    <div class="controls">
+        <input type="text" id="searchInput" placeholder="Search tags (comma separated for multiple tags)">
+        <label><input type="radio" name="mode" value="and" checked> AND</label>
+        <label><input type="radio" name="mode" value="or"> OR</label>
+        <select id="sortSelect">
+            <option value="az">Sort A-Z</option>
+            <option value="za">Sort Z-A</option>
+            <option value="countdesc">Sort by Count (High-Low)</option>
+            <option value="countasc">Sort by Count (Low-High)</option>
+        </select>
+    </div>
+    <div class="tag-grid" id="tagGrid"></div>
+    <div class="no-tags" id="noTags" style="display:none;">No tags found.</div>
+    <script>
+        let tags = [];
+        let filteredTags = [];
+        let currentSort = 'az';
+
+        async function fetchTags() {
+            const response = await fetch('../../data/tags.json');
+            tags = await response.json();
+            filteredTags = [...tags];
+            renderTags();
+        }
+
+        function renderTags() {
+            const grid = document.getElementById('tagGrid');
+            const noTags = document.getElementById('noTags');
+            grid.innerHTML = '';
+            if (filteredTags.length === 0) {
+                noTags.style.display = 'block';
+                return;
+            } else {
+                noTags.style.display = 'none';
+            }
+            filteredTags.forEach(tag => {
+                const tile = document.createElement('div');
+                tile.className = 'tag-tile';
+                tile.innerHTML = `<span class="tag-name">${tag.name}</span><br><span class="tag-count">${tag.count} posts</span>`;
+                grid.appendChild(tile);
+            });
+        }
+
+        function sortTags(sortType) {
+            currentSort = sortType;
+            if (sortType === 'az') {
+                filteredTags.sort((a, b) => a.name.localeCompare(b.name));
+            } else if (sortType === 'za') {
+                filteredTags.sort((a, b) => b.name.localeCompare(a.name));
+            } else if (sortType === 'countdesc') {
+                filteredTags.sort((a, b) => b.count - a.count);
+            } else if (sortType === 'countasc') {
+                filteredTags.sort((a, b) => a.count - b.count);
+            }
+            renderTags();
+        }
+
+        function filterTags() {
+            const input = document.getElementById('searchInput').value.trim();
+            const mode = document.querySelector('input[name="mode"]:checked').value;
+            if (!input) {
+                filteredTags = [...tags];
+                sortTags(currentSort);
+                return;
+            }
+            const searchTags = input.split(',').map(t => t.trim().toLowerCase()).filter(Boolean);
+            if (mode === 'and') {
+                filteredTags = tags.filter(tag => searchTags.every(st => tag.name.toLowerCase().includes(st)));
+            } else {
+                filteredTags = tags.filter(tag => searchTags.some(st => tag.name.toLowerCase().includes(st)));
+            }
+            sortTags(currentSort);
+        }
+
+        document.getElementById('searchInput').addEventListener('input', filterTags);
+        document.querySelectorAll('input[name="mode"]').forEach(radio => {
+            radio.addEventListener('change', filterTags);
+        });
+        document.getElementById('sortSelect').addEventListener('change', e => {
+            sortTags(e.target.value);
+        });
+
+        fetchTags();
+    </script>
+</body>
+</html>
