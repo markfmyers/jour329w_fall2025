@@ -107,7 +107,7 @@ The LLM provided 125 unique topics, which was more than I expected. With that be
 - Are there topics that seem too broad or too narrow?
 The most repeated topics are very broad, which is not necessarily a bad thing. Sometimes people just want to read about sports, history, or entertainment. WHen it gets to the unique topics, they get a little too narrow. Topics including: 'inauguration gifts', 'adventurous travel', and 'books authors' are not things that most people would gravitate towards. 
 - Are there stories that seem mis-categorized?
-Some do, but for the most part they are spot-on.
+Many.
 - Give specific examples of stories and their topics:
 Multiple stories about tv listings are labeled under 'sports.' Others have relevant topics, but maybe still are too broad. For example, a story about a dog park opening is labeled 'local news,' which is fair, but also the topic could be more specific to the park or pets/pet-owners consdering the range of unique topics the llm generated.
 
