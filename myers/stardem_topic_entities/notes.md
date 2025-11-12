@@ -4,7 +4,7 @@ I chose sports as my topic because it is a primary interest of mine, and a subje
 
 For my first run, I used groq/openai/gpt-oss-120b.
 
-For my second run, I chose to pivot to education stories, because there is an overlap between the high school sports being written about and the education stories that cover the same schools. I used glm-4.6:cloud, and after repeated trials, it still would fail. I then switched to Llama.
+For my second run, I chose to pivot to education stories, because there is an overlap between the high school sports being written about and the education stories that cover the same schools. I used glm-4.6:cloud, and after repeated trials, it still would fail. I then switched to groq/meta-llama/llama-4-maverick-17b-128e-instruct.
 
 When updating my prompt, I asked Copilot for more context, including examples of people/organizations worth including and not worth including, as well as story types to avoid, such as obituaries, legal notices, or other miscellaneous stories that do not fit the subject.
 
