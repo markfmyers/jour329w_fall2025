@@ -1,0 +1,484 @@
+[
+  {
+    "title": "Delean-Botkin resigns from Talbot Board of Education",
+    "date": "2023-08-04",
+    "author": "Maggie Trovato; mtrovato@chespub.com",
+    "docref": "news/19344042DCBF8EE0",
+    "article_id": "search-hits__hit--8987",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 4,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.92,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.92
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article focuses on a board member resigning from the Talbot County Board of Education and discusses education initiatives, making Education the most relevant category, with Local Government as a secondary relevance due to the new commissioner role."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Susan Delean-Botkin",
+      "Talbot County Board President Emily Jackson",
+      "Talbot County Public Schools Executive Assistant Charlene Gould",
+      "Commissioner Tom Costigan",
+      "Commissioner Jimmy Jaramillo",
+      "Commissioner Brian Wells",
+      "Commissioner Katrina Greer"
+    ],
+    "places": [
+      "Talbot County",
+      "Oxford"
+    ],
+    "organizations": [
+      "Talbot County Board of Education",
+      "Talbot County Public Schools",
+      "Governor's Appointments Office"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Community invited to celebrate completion of KI Branch Library renovation",
+    "date": "2023-08-04",
+    "author": "",
+    "docref": "news/19344042E9C14138",
+    "article_id": "search-hits__hit--8981",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 4,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.58
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.44
+        }
+      ],
+      "explanation": "The article describes a library renovation that adds meeting rooms and a makerspace aimed at learning, creativity, and community education, making Education the strongest fit, with secondary relevance to Local Government (county involvement) and Arts & Culture (creative makerspace)."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Queen Anne's County Library Director Janet Salazar"
+    ],
+    "places": [
+      "Kent Island"
+    ],
+    "organizations": [
+      "Queen Anne's County Library",
+      "Kent Island Branch",
+      "Maryland State Library Agency",
+      "State of Maryland",
+      "Queen Anne's County Commissioners"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "New director hired at Chesapeake College in Cambridge",
+    "date": "2023-08-08",
+    "author": "",
+    "docref": "news/1934F50946BF3FC8",
+    "article_id": "search-hits__hit--8950",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 8,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.65
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article announces the hiring of a new director for a college center, focusing on academic programs, workforce training, and community education services, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Chesapeake College Cambridge Center Director Lorelly Solano"
+    ],
+    "places": [
+      "Cambridge, Maryland",
+      "Dorchester County, Maryland"
+    ],
+    "organizations": [
+      "Chesapeake College",
+      "Chesapeake College Cambridge Center"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Fair offers lots of fun, much more",
+    "date": "2023-08-09",
+    "author": "Mike Detmer; mdetmer@chespub.com",
+    "docref": "news/19358ACF517665E0",
+    "article_id": "search-hits__hit--8929",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 9,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Agriculture",
+          "score": 0.65
+        },
+        {
+          "topic": "Entertainment",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article centers on the county fair's 4-H programs, youth learning, and skill development, highlighting educational benefits, while also covering livestock exhibits that relate to agriculture."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Skylar Blunt",
+      "Macrina Zbobysz",
+      "Lily Hutchison",
+      "Rebecca Brault",
+      "Ally Geib"
+    ],
+    "places": [
+      "Denton, Maryland",
+      "Caroline County, Maryland",
+      "Dorchester County, Maryland"
+    ],
+    "organizations": [
+      "Caroline/Dorchester County Fair",
+      "4-H"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "For All Seasons to host Back to School Resource Fair",
+    "date": "2023-08-09",
+    "author": "",
+    "docref": "news/19358ACF3A5B06A0",
+    "article_id": "search-hits__hit--8922",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 9,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Health",
+          "score": 0.62
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.55
+        }
+      ],
+      "explanation": "The article centers on a back‑to‑school resource fair providing school supplies and information for students and families, making Education the most relevant category, with secondary relevance to Health (mental health resources) and Public Notices (event announcement)."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "For All Seasons Vice President of Marketing and Communications Katie Theeke"
+    ],
+    "places": [
+      "Easton",
+      "Idlewild Park"
+    ],
+    "organizations": [
+      "For All Seasons",
+      "Talbot County Department of Social Services"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "School board adopts new AP Physics textbook",
+    "date": "2023-08-09",
+    "author": "Connie Connolly; cconnolly@chespub.com",
+    "docref": "news/19358ACF5A918B50",
+    "article_id": "search-hits__hit--8913",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 9,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.65
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article reports on a school board's decision to adopt a new AP Physics textbook, which directly pertains to educational policy and curriculum."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Superintendent Derek Simmons",
+      "Caroline County Supervisor of Instruction Amy Towers",
+      "Colonel Richardson High School Teacher Chad Shelly",
+      "Principal Nikki VonDen-Bosch",
+      "North Caroline High School Teacher John Moyer",
+      "Principal Matt Spiker"
+    ],
+    "places": [
+      "Denton",
+      "Caroline County"
+    ],
+    "organizations": [
+      "Caroline County Board of Education",
+      "Caroline County Public Schools",
+      "Colonel Richardson High School",
+      "North Caroline High School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "'Love In Action' displayed by Black Excellence fund",
+    "date": "2023-08-11",
+    "author": "",
+    "docref": "news/1936CFC970F5E3C8",
+    "article_id": "search-hits__hit--8849",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 11,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article centers on grant awards to nonprofits that support youth STEM education and community development, making education the primary focus, with secondary relevance to business/economic empowerment."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "BECF founding member Sonya Whited"
+    ],
+    "places": [
+      "Wicomico County"
+    ],
+    "organizations": [
+      "Black Excellence Community Fund",
+      "Community Foundation of the Eastern Shore Giving Circle",
+      "Young Elites of the Eastern Shore West to East Coast Aviation Network",
+      "SchooLARS 4 STEM",
+      "Faith Over Fear Economic Empowerment Inc.",
+      "Maryland General Assembly"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "FOR THE RECORD",
+    "date": "2023-08-16",
+    "author": "",
+    "docref": "news/1937936BB51B1F90",
+    "article_id": "search-hits__hit--8815",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 16,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.68
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article announces a school supplies giveaway and resource fair for children, which directly relates to educational support and resources."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [],
+    "places": [
+      "Idlewild Park",
+      "Easton"
+    ],
+    "organizations": [
+      "For All Seasons",
+      "Talbot County Department of Social Services"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "New director takes the helm at Chesapeake's Cambridge Center",
+    "date": "2023-08-16",
+    "author": "",
+    "docref": "news/1937936BC9FA3300",
+    "article_id": "search-hits__hit--8791",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 16,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.68
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article focuses on the appointment of a new director for a college center, describing its educational programs, workforce training, and community outreach, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Chesapeake College Cambridge Center Director Lorelly Solano"
+    ],
+    "places": [
+      "Cambridge, Maryland",
+      "Dorchester County, Maryland"
+    ],
+    "organizations": [
+      "Chesapeake College Cambridge Center",
+      "Chesapeake College"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Doug Holly joins Chesapeake Forum Board of Directors",
+    "date": "2023-08-16",
+    "author": "",
+    "docref": "news/1937936BCE74CE40",
+    "article_id": "search-hits__hit--8788",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 16,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.55
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article announces a new board member for Chesapeake Forum, a nonprofit focused on providing lifelong learning opportunities, making the primary relevance to education rather than pure business or government."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Doug Holly",
+      "Board President Lynn Randle"
+    ],
+    "places": [
+      "Easton"
+    ],
+    "organizations": [
+      "Chesapeake Forum",
+      "Maryland Innovation Center"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  }
+]

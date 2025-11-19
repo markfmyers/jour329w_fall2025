@@ -1,0 +1,5119 @@
+[
+  {
+    "title": "Delean-Botkin resigns from Talbot Board of Education",
+    "date": "2023-08-04",
+    "author": "Maggie Trovato; mtrovato@chespub.com",
+    "docref": "news/19344042DCBF8EE0",
+    "article_id": "search-hits__hit--8987",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 4,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.92,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.92
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article focuses on a board member resigning from the Talbot County Board of Education and discusses education initiatives, making Education the most relevant category, with Local Government as a secondary relevance due to the new commissioner role."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Susan Delean-Botkin",
+      "Talbot County Board President Emily Jackson",
+      "Talbot County Public Schools Executive Assistant Charlene Gould",
+      "Commissioner Tom Costigan",
+      "Commissioner Jimmy Jaramillo",
+      "Commissioner Brian Wells",
+      "Commissioner Katrina Greer"
+    ],
+    "places": [
+      "Talbot County",
+      "Oxford"
+    ],
+    "organizations": [
+      "Talbot County Board of Education",
+      "Talbot County Public Schools",
+      "Governor's Appointments Office"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Community invited to celebrate completion of KI Branch Library renovation",
+    "date": "2023-08-04",
+    "author": "",
+    "docref": "news/19344042E9C14138",
+    "article_id": "search-hits__hit--8981",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 4,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.58
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.44
+        }
+      ],
+      "explanation": "The article describes a library renovation that adds meeting rooms and a makerspace aimed at learning, creativity, and community education, making Education the strongest fit, with secondary relevance to Local Government (county involvement) and Arts & Culture (creative makerspace)."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Queen Anne's County Library Director Janet Salazar"
+    ],
+    "places": [
+      "Kent Island"
+    ],
+    "organizations": [
+      "Queen Anne's County Library",
+      "Kent Island Branch",
+      "Maryland State Library Agency",
+      "State of Maryland",
+      "Queen Anne's County Commissioners"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "New director hired at Chesapeake College in Cambridge",
+    "date": "2023-08-08",
+    "author": "",
+    "docref": "news/1934F50946BF3FC8",
+    "article_id": "search-hits__hit--8950",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 8,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.65
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article announces the hiring of a new director for a college center, focusing on academic programs, workforce training, and community education services, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Chesapeake College Cambridge Center Director Lorelly Solano"
+    ],
+    "places": [
+      "Cambridge, Maryland",
+      "Dorchester County, Maryland"
+    ],
+    "organizations": [
+      "Chesapeake College",
+      "Chesapeake College Cambridge Center"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Fair offers lots of fun, much more",
+    "date": "2023-08-09",
+    "author": "Mike Detmer; mdetmer@chespub.com",
+    "docref": "news/19358ACF517665E0",
+    "article_id": "search-hits__hit--8929",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 9,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Agriculture",
+          "score": 0.65
+        },
+        {
+          "topic": "Entertainment",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article centers on the county fair's 4-H programs, youth learning, and skill development, highlighting educational benefits, while also covering livestock exhibits that relate to agriculture."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Skylar Blunt",
+      "Macrina Zbobysz",
+      "Lily Hutchison",
+      "Rebecca Brault",
+      "Ally Geib"
+    ],
+    "places": [
+      "Denton, Maryland",
+      "Caroline County, Maryland",
+      "Dorchester County, Maryland"
+    ],
+    "organizations": [
+      "Caroline/Dorchester County Fair",
+      "4-H"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "For All Seasons to host Back to School Resource Fair",
+    "date": "2023-08-09",
+    "author": "",
+    "docref": "news/19358ACF3A5B06A0",
+    "article_id": "search-hits__hit--8922",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 9,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Health",
+          "score": 0.62
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.55
+        }
+      ],
+      "explanation": "The article centers on a back‑to‑school resource fair providing school supplies and information for students and families, making Education the most relevant category, with secondary relevance to Health (mental health resources) and Public Notices (event announcement)."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "For All Seasons Vice President of Marketing and Communications Katie Theeke"
+    ],
+    "places": [
+      "Easton",
+      "Idlewild Park"
+    ],
+    "organizations": [
+      "For All Seasons",
+      "Talbot County Department of Social Services"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "School board adopts new AP Physics textbook",
+    "date": "2023-08-09",
+    "author": "Connie Connolly; cconnolly@chespub.com",
+    "docref": "news/19358ACF5A918B50",
+    "article_id": "search-hits__hit--8913",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 9,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.65
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article reports on a school board's decision to adopt a new AP Physics textbook, which directly pertains to educational policy and curriculum."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Superintendent Derek Simmons",
+      "Caroline County Supervisor of Instruction Amy Towers",
+      "Colonel Richardson High School Teacher Chad Shelly",
+      "Principal Nikki VonDen-Bosch",
+      "North Caroline High School Teacher John Moyer",
+      "Principal Matt Spiker"
+    ],
+    "places": [
+      "Denton",
+      "Caroline County"
+    ],
+    "organizations": [
+      "Caroline County Board of Education",
+      "Caroline County Public Schools",
+      "Colonel Richardson High School",
+      "North Caroline High School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "'Love In Action' displayed by Black Excellence fund",
+    "date": "2023-08-11",
+    "author": "",
+    "docref": "news/1936CFC970F5E3C8",
+    "article_id": "search-hits__hit--8849",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 11,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article centers on grant awards to nonprofits that support youth STEM education and community development, making education the primary focus, with secondary relevance to business/economic empowerment."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "BECF founding member Sonya Whited"
+    ],
+    "places": [
+      "Wicomico County"
+    ],
+    "organizations": [
+      "Black Excellence Community Fund",
+      "Community Foundation of the Eastern Shore Giving Circle",
+      "Young Elites of the Eastern Shore West to East Coast Aviation Network",
+      "SchooLARS 4 STEM",
+      "Faith Over Fear Economic Empowerment Inc.",
+      "Maryland General Assembly"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "FOR THE RECORD",
+    "date": "2023-08-16",
+    "author": "",
+    "docref": "news/1937936BB51B1F90",
+    "article_id": "search-hits__hit--8815",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 16,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.68
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article announces a school supplies giveaway and resource fair for children, which directly relates to educational support and resources."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [],
+    "places": [
+      "Idlewild Park",
+      "Easton"
+    ],
+    "organizations": [
+      "For All Seasons",
+      "Talbot County Department of Social Services"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "New director takes the helm at Chesapeake's Cambridge Center",
+    "date": "2023-08-16",
+    "author": "",
+    "docref": "news/1937936BC9FA3300",
+    "article_id": "search-hits__hit--8791",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 16,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.68
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article focuses on the appointment of a new director for a college center, describing its educational programs, workforce training, and community outreach, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Chesapeake College Cambridge Center Director Lorelly Solano"
+    ],
+    "places": [
+      "Cambridge, Maryland",
+      "Dorchester County, Maryland"
+    ],
+    "organizations": [
+      "Chesapeake College Cambridge Center",
+      "Chesapeake College"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Doug Holly joins Chesapeake Forum Board of Directors",
+    "date": "2023-08-16",
+    "author": "",
+    "docref": "news/1937936BCE74CE40",
+    "article_id": "search-hits__hit--8788",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 16,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.55
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article announces a new board member for Chesapeake Forum, a nonprofit focused on providing lifelong learning opportunities, making the primary relevance to education rather than pure business or government."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Doug Holly",
+      "Board President Lynn Randle"
+    ],
+    "places": [
+      "Easton"
+    ],
+    "organizations": [
+      "Chesapeake Forum",
+      "Maryland Innovation Center"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Mid-Shore Pro Bono interns gain valuable experience",
+    "date": "2023-08-17",
+    "author": "Mike Detmer; mdetmer@chespub.com",
+    "docref": "news/1937F03A65609E68",
+    "article_id": "search-hits__hit--8775",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 17,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.93,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.93
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.45
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article focuses on university students gaining practical legal experience through a nonprofit internship program, highlighting educational and training aspects rather than sports, health, or other categories."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Executive Director Meredith Lathbury Girard",
+      "Clay Benedict",
+      "James Parkinson",
+      "Gabrielle Shlikas"
+    ],
+    "places": [
+      "Easton, MD",
+      "Salisbury, MD",
+      "Dorchester County",
+      "Wicomico County"
+    ],
+    "organizations": [
+      "Mid-Shore Pro Bono",
+      "University of Baltimore School of Law",
+      "EXPLOR program",
+      "Sandy Brown Public Interest Internship Fund",
+      "Campbell Foundation"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Backpack Giveaway - Colorful event highlights community resources",
+    "date": "2023-08-18",
+    "author": "Tom Mccall; tmccall@chespub.com",
+    "docref": "news/1939343E66AEC560",
+    "article_id": "search-hits__hit--8732",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 18,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.55
+        },
+        {
+          "topic": "Health",
+          "score": 0.48
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.42
+        }
+      ],
+      "explanation": "The article centers on a back‑to‑school backpack giveaway, highlighting resources for students and families and involving schools, libraries, and educational support, making Education the most fitting category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Marketing and Communications Associate John Qvarnstrom",
+      "Vice President of Marketing and Communications Katie Theeke",
+      "Mayor Megan Cooke",
+      "Translator Janine Puma Martinez"
+    ],
+    "places": [
+      "Easton",
+      "Idlewild Park",
+      "Talbot County"
+    ],
+    "organizations": [
+      "For All Seasons",
+      "Care Pack of Talbot County",
+      "Talbot County Public Library"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Birds, the Brain and Plato kick off Chesapeake Forum's fall schedule",
+    "date": "2023-08-18",
+    "author": "",
+    "docref": "news/1939343E83A9F918",
+    "article_id": "search-hits__hit--8726",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 18,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.92,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.92
+        },
+        {
+          "topic": "Health",
+          "score": 0.65
+        },
+        {
+          "topic": "Environment",
+          "score": 0.55
+        }
+      ],
+      "explanation": "The article primarily announces a series of learning programs (philosophy class, birding field trip, brain health session) offered by a nonprofit, making it chiefly about educational opportunities."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Forest Hansen",
+      "Maryland Environmental Service Senior Environmental Specialist Kristina Motley",
+      "Tim Carney",
+      "Wayne Bell",
+      "client care manager Jane Bateman"
+    ],
+    "places": [
+      "Easton, Maryland",
+      "Poplar Island"
+    ],
+    "organizations": [
+      "Chesapeake Forum",
+      "Maryland Environmental Service",
+      "Easton Family YMCA"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Governor visits Benedictine",
+    "date": "2023-08-23",
+    "author": "Tom Mccall; tmccall@chespub.com",
+    "docref": "news/193A284CE0DAACD0",
+    "article_id": "search-hits__hit--8706",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 23,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.92,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.92
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Health",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article centers on a governor's visit to a specialized school for students with developmental disabilities, discussing educational programs, funding for campus expansion, and the institution's role in supporting learners, making Education the most fitting category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Governor Wes Moore",
+      "Maryland Department of Disabilities Secretary Carol Beatty",
+      "Benedictine Director Scott Evans",
+      "Benedictine Educational Director Julie Hickey"
+    ],
+    "places": [
+      "Ridgely"
+    ],
+    "organizations": [
+      "Benedictine Programs and Services",
+      "Maryland Department of Disabilities"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "4-H Development Program welcomes Japanese student",
+    "date": "2023-08-24",
+    "author": "Annie Hasselgren; For The Star Democrat",
+    "docref": "news/193A5E5176493F50",
+    "article_id": "search-hits__hit--8667",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 24,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.65
+        },
+        {
+          "topic": "Race & Diversity",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article describes a 4-H youth development and cultural exchange program, focusing on educational experiences for students, making Education the most fitting category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "University of Maryland Extension faculty member Tina Squibb",
+      "University of Maryland Eastern Shore associate dean Jinhee Kim",
+      "Nishinomiya Mayor Ishi Toshiro",
+      "Maari Murakawa"
+    ],
+    "places": [
+      "Centreville, Maryland",
+      "Queen Anne's County, Maryland",
+      "Nishinomiya, Japan"
+    ],
+    "organizations": [
+      "4-H Development Program for Youth",
+      "University of Maryland Extension",
+      "University of Maryland Eastern Shore",
+      "Queen Anne's County Commission",
+      "Maryland 4-H"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Back to school brings shopping lists, fundraisers",
+    "date": "2023-08-24",
+    "author": "Mary Hunt",
+    "docref": "news/193A5E518680EEA8",
+    "article_id": "search-hits__hit--8633",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 24,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.93,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.93
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.68
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article discusses back‑to‑school expenses, school supplies, and fundraisers, focusing on the impact on students and families, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Mary Hunt"
+    ],
+    "places": [],
+    "organizations": [
+      "EverydayCheapskate.com",
+      "Huntington Bank"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Caroline schools serve free meals to all students - Cafeterias will still charge for extra items",
+    "date": "2023-08-30",
+    "author": "Connie Connolly; cconnolly@chespub.com",
+    "docref": "news/193C33819F3EBBC8",
+    "article_id": "search-hits__hit--8580",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 30,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.92,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.92
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.68
+        },
+        {
+          "topic": "Environment",
+          "score": 0.55
+        },
+        {
+          "topic": "Agriculture",
+          "score": 0.48
+        }
+      ],
+      "explanation": "The article focuses on a school district implementing a free meals program for students, which is primarily an education‑related policy issue."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Food Services Supervisor Beth Brewster"
+    ],
+    "places": [
+      "Caroline County"
+    ],
+    "organizations": [
+      "Caroline County Public Schools",
+      "U.S. Department of Agriculture Food and Nutrition Service",
+      "CCPS Food Services"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "It's back to school at Easton Elementary",
+    "date": "2023-08-30",
+    "author": "Mike Detmer; mdetmer@chespub.com",
+    "docref": "news/193C33815DD34CB8",
+    "article_id": "search-hits__hit--8555",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 30,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.62
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article reports on the first day of school at Easton Elementary, focusing on students, teachers, and school administration, which directly relates to the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Talbot County Superintendent Sharon Pepukayi",
+      "Talbot County Board of Education member Amy Dodson"
+    ],
+    "places": [
+      "Easton",
+      "Talbot County"
+    ],
+    "organizations": [
+      "Talbot County Public Schools",
+      "Easton Elementary School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Holt Scholarship Fund awards $560,000",
+    "date": "2023-08-30",
+    "author": "",
+    "docref": "news/193C3381A6D3E930",
+    "article_id": "search-hits__hit--8553",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 30,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.68
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article focuses on a scholarship fund awarding money to students, highlighting its impact on educational opportunities, making Education the most relevant category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Roberta B. Holt",
+      "Haines Holt",
+      "Mid-Shore Community Foundation President Buck Duncan"
+    ],
+    "places": [
+      "Caroline County"
+    ],
+    "organizations": [
+      "Roberta B. Holt Scholarship Fund",
+      "Mid-Shore Community Foundation"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "'ArtScene the Podcast' features QA Teacher of the Year Andrea Schulte",
+    "date": "2023-08-31",
+    "author": "",
+    "docref": "news/193CBB0D9E02F7D8",
+    "article_id": "search-hits__hit--8529",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 8,
+    "day": 31,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.66,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.66
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.34
+        }
+      ],
+      "explanation": "The article centers on Andrea Schulte being named Teacher of the Year and highlights her educational impact, scholarships, and curriculum achievements, making education the primary focus, while the art focus places Arts & Culture as a secondary candidate."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "QACPS Teacher of the Year Andrea Schulte",
+      "Kent Island High School Principal Dan Harding",
+      "Queen Anne's County Public Schools Visual and Performing Arts Supervisor Michael Bell"
+    ],
+    "places": [
+      "Kent Island",
+      "Queen Anne's County"
+    ],
+    "organizations": [
+      "ArtScene the Podcast",
+      "Kent Island High School",
+      "Queen Anne's County Public Schools",
+      "Maryland Art Education Association",
+      "QAC Centre for the Arts"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "University of Maryland Eastern Shore increases enrollment once again",
+    "date": "2023-09-01",
+    "author": "",
+    "docref": "news/193D8959C33E8D18",
+    "article_id": "search-hits__hit--8487",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 1,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.94,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.94
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article discusses university enrollment trends, recruitment strategies, and student demographics, which are core aspects of higher education reporting."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "University of Maryland Eastern Shore Vice President of Enrollment Management and Student Experience Latoya Jenkins",
+      "University of Maryland Eastern Shore President Heidi M. Anderson",
+      "University of Maryland Eastern Shore Director of Admissions and Recruitment Darryl Isom"
+    ],
+    "places": [
+      "Princess Anne, Maryland"
+    ],
+    "organizations": [
+      "University of Maryland Eastern Shore",
+      "Wor‑Wic Community College",
+      "Ruffalo Noel Levitz",
+      "tbc Inc."
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Caroline schools get off to smooth start",
+    "date": "2023-09-06",
+    "author": "Connie Connolly; cconnolly@chespub.com",
+    "docref": "news/193E8287BB038B40",
+    "article_id": "search-hits__hit--8443",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 6,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.2
+        }
+      ],
+      "explanation": "The article reports on the first day of school, superintendent visits, principals, and student experiences, which directly pertains to the education sector."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Maryland Superintendent of Schools Mohammed Choudhury",
+      "retired Brig. Gen. Warner I. Sumpter",
+      "Caroline County Superintendent Derek Simmons",
+      "School Principal Stephanie Brohawn",
+      "High school Principal Jared Sherman",
+      "Biology teacher Bobbi Bee",
+      "Preston Elementary School Assistant Principal Deanne Waters",
+      "Principal A.J. Angeloni"
+    ],
+    "places": [
+      "Caroline County",
+      "Federalsburg"
+    ],
+    "organizations": [
+      "Federalsburg Elementary School",
+      "Colonel Richardson High School",
+      "Preston Elementary School",
+      "Maryland Board of Education"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Caroline County schools welcome new teachers",
+    "date": "2023-09-06",
+    "author": "",
+    "docref": "news/193E8287C24BE400",
+    "article_id": "search-hits__hit--8437",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 6,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article reports on a school district's teacher orientation and hiring, which directly relates to the education sector."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Superintendent Derek Simmons",
+      "Caroline County Board of Education Vice President Mark Jones",
+      "Caroline County Education Association President Amy Bauman",
+      "Administrators and Supervisors Association of Caroline County President Courtney Handte",
+      "Sheriff Donnie Baker",
+      "Supervisor of Human Resources Rob Willoughby",
+      "Transportation Coordinator Garrett Shull"
+    ],
+    "places": [
+      "Caroline County, Maryland",
+      "Denton, Maryland",
+      "Marydel, Maryland",
+      "Federalsburg, Maryland"
+    ],
+    "organizations": [
+      "Caroline County Public Schools",
+      "Caroline County Board of Education",
+      "Caroline County Education Association",
+      "Administrators and Supervisors Association of Caroline County",
+      "Support Services Center",
+      "Caroline County Culinary Center",
+      "Colonel Richardson High School",
+      "Caroline Career & Technology Center"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Constitution Day includes Douglass reenactment",
+    "date": "2023-09-07",
+    "author": "",
+    "docref": "news/193F2A0ED7CB79F8",
+    "article_id": "search-hits__hit--8408",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 7,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.65
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.55
+        }
+      ],
+      "explanation": "The article centers on a Constitution Day event that includes educational programming, scholarships, and efforts to increase constitutional knowledge, making Education the most fitting category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "actor Darius Wallace"
+    ],
+    "places": [
+      "Easton",
+      "Talbot County Courthouse"
+    ],
+    "organizations": [
+      "Mid-Shore Constitution Alliance",
+      "Washington College Institute for Religion, Politics & Culture",
+      "Operation Frederick Douglass on the Hill",
+      "Talbot County Free Library"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Bullying lawsuit in Dorchester County Court",
+    "date": "2023-09-07",
+    "author": "Natalie Jones; njones@chespub.com",
+    "docref": "news/193F2A0EC1255D90",
+    "article_id": "search-hits__hit--8396",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 7,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.93,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.93
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.68
+        },
+        {
+          "topic": "Health",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article discusses a lawsuit alleging negligence by school officials in handling bullying and harassment of a student, which directly relates to the education system and its responsibilities."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Dorchester County supervisor of student services James Bell",
+      "Mace's Lane Middle School Assistant Principal Cynitha Woolford",
+      "Mace's Lane Middle School Former Principal Michael Collins"
+    ],
+    "places": [
+      "Dorchester County, Maryland",
+      "Cambridge, Maryland"
+    ],
+    "organizations": [
+      "Dorchester County Public Schools",
+      "Dorchester County Board of Education",
+      "Mace's Lane Middle School",
+      "Dorchester County Circuit Court",
+      "Appellate Court of Maryland",
+      "Supreme Court of Maryland"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Dorchester Board of Education gets ready for school year",
+    "date": "2023-09-08",
+    "author": "Maggie Trovato; mtrovato@chespub.com",
+    "docref": "news/193F2A0F57776688",
+    "article_id": "search-hits__hit--8350",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 8,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.32
+        }
+      ],
+      "explanation": "The article focuses on the Dorchester County Board of Education's plans and initiatives for the upcoming school year, which directly pertains to the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Choptank Elementary School Principal Gave Parker",
+      "Mace's Lane Middle School Principal Patricia Prosser",
+      "Board member Theresa Stafford",
+      "Board member Chris Wheedleton",
+      "Board President Susan Morgan"
+    ],
+    "places": [
+      "Dorchester County",
+      "Cambridge, Maryland"
+    ],
+    "organizations": [
+      "Dorchester County Board of Education",
+      "Choptank Elementary School",
+      "Mace's Lane Middle School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Capital News Service compiled these stories, data",
+    "date": "2023-09-12",
+    "author": "Local News Network; Capital News Service",
+    "docref": "news/19407F6D6D535520",
+    "article_id": "search-hits__hit--8338",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 12,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.12
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.07
+        }
+      ],
+      "explanation": "The article describes a university journalism project involving faculty and students analyzing vendor payment data for school districts, highlighting an academic initiative and student involvement, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Lecturer Derek Willis",
+      "Local News Network Director Jerry Zremski",
+      "Capital News Service Digital Bureau Director Adam Marton",
+      "Destiny Herbers",
+      "Capital News Service Managing Director Marty Kaiser",
+      "Merrill College Communications Manager Josh Land"
+    ],
+    "places": [],
+    "organizations": [
+      "University of Maryland Philip Merrill College of Journalism",
+      "Capital News Service",
+      "Local News Network",
+      "Capital News Service Digital Bureau",
+      "Capital News Service Annapolis Bureau"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "'Contracted Out' - An unprecedented look at Maryland public school spending",
+    "date": "2023-09-12",
+    "author": "Local News Network University Of Maryland's Philip Merrill College Of Journalism",
+    "docref": "news/19407F6D6B5E2C40",
+    "article_id": "search-hits__hit--8336",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 12,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.94,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.94
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.68
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.55
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article focuses on public school funding, vendor contracts, and transparency of school district spending, which directly relates to the education sector."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Georgetown University Edunomics Lab Director Marguerite Roza",
+      "Maryland Office of Legislative Audits Assistant Director Matthew Streett",
+      "Maryland Association of Boards of Education Executive Director Milton E. Nagel",
+      "Maryland State Inspector General for Education Richard Henry",
+      "Local News Network Director Jerry Zremski",
+      "University of Maryland Merrill College Lecturer Derek Willis"
+    ],
+    "places": [
+      "Maryland",
+      "Baltimore County",
+      "Baltimore City",
+      "Montgomery County"
+    ],
+    "organizations": [
+      "University of Maryland",
+      "Local News Network",
+      "University of Maryland Philip Merrill College of Journalism",
+      "Georgetown University's Edunomics Lab",
+      "Maryland Office of Legislative Audits",
+      "Maryland Association of Boards of Education",
+      "Maryland Office of the State Inspector General for Education",
+      "Baltimore County Public Schools",
+      "Montgomery County Public Schools",
+      "Maryland Department of Budget and Management",
+      "Maryland Open Data Portal"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Audits show trouble lurking in school contracts",
+    "date": "2023-09-12",
+    "author": "Kayla Nazaire; Capital News Service",
+    "docref": "news/19407F6D7633A028",
+    "article_id": "search-hits__hit--8335",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 12,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.94,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.94
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.55
+        }
+      ],
+      "explanation": "The article discusses school district contracting, audits, and financial misconduct within public schools, which directly relates to the education sector."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Maryland Inspector General for Education Richard P. Henry",
+      "Office of Legislative Audits Assistant Director Matthew Streett",
+      "Montgomery County former assistant transportation director Charles Ewald",
+      "Montgomery County former transportation director Todd Watkins"
+    ],
+    "places": [
+      "Montgomery County, Maryland",
+      "Calvert County, Maryland",
+      "Baltimore City, Maryland",
+      "Howard County, Maryland",
+      "Charles County, Maryland",
+      "Maryland"
+    ],
+    "organizations": [
+      "Maryland Office of the Inspector General for Education",
+      "Office of Legislative Audits",
+      "Montgomery County Public Schools",
+      "Calvert County Public Schools",
+      "American Truck & Bus Inc.",
+      "Montgomery County Office of the Inspector General",
+      "Maryland State Department of Education"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Backpack giveaway draws big crowd in Goldsboro",
+    "date": "2023-09-15",
+    "author": "",
+    "docref": "news/194254A228C846F0",
+    "article_id": "search-hits__hit--8232",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 15,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.93,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.93
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article describes a community backpack giveaway aimed at supporting schoolchildren with supplies, directly relating to educational needs and back‑to‑school initiatives."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Town Manager Jeannette DeLude",
+      "Executive Director Amy Horne",
+      "CEO Angel Perez"
+    ],
+    "places": [
+      "Goldsboro",
+      "Caroline County"
+    ],
+    "organizations": [
+      "CASA of Caroline",
+      "Caroline Pride",
+      "Town of Goldsboro",
+      "Caroline County Public Schools"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Counties ponder money for college building - Financial commitment worries many of the county officials",
+    "date": "2023-09-20",
+    "author": "Maggie Trovato; mtrovato@chespub.com",
+    "docref": "news/19432575093D8A20",
+    "article_id": "search-hits__hit--8196",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 20,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.64
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.38
+        }
+      ],
+      "explanation": "The article centers on a $79 million technical center for Chesapeake College and the counties' decisions about funding it, making the primary focus higher‑education infrastructure. While county officials are involved, the core subject is the educational project."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Chesapeake College President Cliff Coppersmith",
+      "Kent County Commission President Ron Fithian",
+      "Caroline County Commission Vice President Larry Porter",
+      "Queen Anne's County Commissioner Jack Wilson Jr.",
+      "Dorchester County Council President Lenny Pfeffer",
+      "Talbot County Council member Keasha Haythe"
+    ],
+    "places": [
+      "Caroline County",
+      "Dorchester County",
+      "Kent County",
+      "Talbot County",
+      "Queen Anne's County"
+    ],
+    "organizations": [
+      "Chesapeake College",
+      "Maryland Higher Education Commission",
+      "Department of Budget and Management",
+      "Eastern Shore Higher Education Center",
+      "Caroline County Commission",
+      "Dorchester County Council",
+      "Kent County Commission",
+      "Queen Anne's County Commissioners",
+      "Talbot County Council"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Commission president: 'I'm on the fence with this' - Breeding balks at Caroline's share of $94M building replacement",
+    "date": "2023-09-20",
+    "author": "Connie Connolly; cconnolly@chespub.com",
+    "docref": "news/19432574B5583830",
+    "article_id": "search-hits__hit--8189",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 20,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article centers on Chesapeake College's request for funding to build a new technology center and discusses its impact on students and training programs, making education the primary focus, with secondary relevance to local government budgeting and economic considerations."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Commission President Travis Breeding",
+      "Commission Vice President Larry Porter",
+      "Caroline County Finance Director Daniel Fox",
+      "Commissioner Frank Bartz",
+      "Chesapeake College President Clifford Coppersmith"
+    ],
+    "places": [
+      "Caroline County",
+      "Denton, MD",
+      "Talbot County",
+      "Queen Anne's County",
+      "Dorchester County",
+      "Kent County",
+      "Wye Mills, MD"
+    ],
+    "organizations": [
+      "Chesapeake College",
+      "Caroline County Commission",
+      "Maryland State Department of Budget and Management"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "'Fantastic job this summer' - Summer school program to expand next year",
+    "date": "2023-09-27",
+    "author": "Connie Connolly; cconnolly@chespub.com",
+    "docref": "news/1945B81C15A8CCC0",
+    "article_id": "search-hits__hit--8076",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 9,
+    "day": 27,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article details a summer school program, its curriculum, enrollment numbers, funding sources, and school district officials, which directly pertains to education."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Public Schools Director of College and Career Readiness Lindsey McCormick",
+      "Caroline County Superintendent Derek Simmons",
+      "Caroline County Public Schools After‑school Coordinator Deja Thompson",
+      "Caroline County Public Schools Communications Officer Sandi Barry"
+    ],
+    "places": [
+      "Caroline County",
+      "Dorchester County",
+      "Prince George's County"
+    ],
+    "organizations": [
+      "Caroline County Public Schools",
+      "Caroline County Recreation and Parks",
+      "Caroline County Board of Education",
+      "Mid‑Shore Regional Council",
+      "People for Change",
+      "American Rescue Plan Elementary and Secondary School Emergency Relief (ARP ESSER) Fund",
+      "21st Century Grant",
+      "CCPS Food Service"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Counties ponder money for college building - Financial commitment worries many of the county officials",
+    "date": "2023-10-04",
+    "author": "Maggie Trovato; mtrovato@chespub.com",
+    "docref": "news/1947BE4ECACEE820",
+    "article_id": "search-hits__hit--7985",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 4,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.62
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.48
+        }
+      ],
+      "explanation": "The article discusses a multi‑county decision on funding a new technical center at Chesapeake College, focusing on higher‑education infrastructure and financing, making Education the most fitting category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Chesapeake College President Cliff Coppersmith",
+      "Kent County Commission President Ron Fithian",
+      "Caroline County Commission Vice President Larry Porter",
+      "Queen Anne's County Commissioner Jack Wilson Jr.",
+      "Dorchester County Council President Lenny Pfeffer",
+      "Talbot County Council member Keasha Haythe"
+    ],
+    "places": [
+      "Caroline County",
+      "Dorchester County",
+      "Kent County",
+      "Talbot County",
+      "Queen Anne's County"
+    ],
+    "organizations": [
+      "Chesapeake College",
+      "Maryland Higher Education Commission",
+      "Department of Budget and Management",
+      "Kent County Commission",
+      "Caroline County Commission",
+      "Queen Anne's County Commissioners",
+      "Dorchester County Council",
+      "Talbot County Council",
+      "Eastern Shore Higher Education Center"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Counties sue social media over mental health in schools - Talbot among 10 counties claiming classroom distraction",
+    "date": "2023-10-05",
+    "author": "Christina Walker; Capital News Service",
+    "docref": "news/19480AE581E9A3A8",
+    "article_id": "search-hits__hit--7960",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 5,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Health",
+          "score": 0.58
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.35
+        }
+      ],
+      "explanation": "The article centers on school districts filing a lawsuit over social media's impact on classroom distraction and student mental health, making it primarily about education policy and school environments."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Charles County Superintendent Maria Navarro",
+      "English teacher Nicholas Gray",
+      "Henry E. Lackey High School Principal Cheryl Davis",
+      "St. Charles High School Principal Tammika Little"
+    ],
+    "places": [
+      "Charles County",
+      "Talbot County",
+      "Anne Arundel County",
+      "Baltimore City",
+      "Carroll County",
+      "Cecil County",
+      "Harford County",
+      "Howard County",
+      "Montgomery County",
+      "Prince George's County"
+    ],
+    "organizations": [
+      "Charles County Public Schools",
+      "Henry E. Lackey High School",
+      "St. Charles High School",
+      "Google",
+      "Meta",
+      "ByteDance",
+      "Snap Inc."
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Dorchester schools gain proficiency on tests",
+    "date": "2023-10-05",
+    "author": "Maggie Trovato; mtrovato@chespub.com",
+    "docref": "news/19480AE588FD8B50",
+    "article_id": "search-hits__hit--7939",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 5,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article reports on Dorchester County Public Schools' test proficiency results and related educational initiatives, which directly pertains to the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Dorchester County Public Schools Director Jodi Colman",
+      "Dorchester County Public Schools Supervisor Laura Aberg",
+      "Dorchester County Board of Education Board Member Theresa Stafford",
+      "Dorchester County Board of Education Board Member Chris Wheedleton"
+    ],
+    "places": [
+      "Cambridge, Maryland",
+      "Dorchester County"
+    ],
+    "organizations": [
+      "Dorchester County Public Schools",
+      "Dorchester County Board of Education",
+      "Maryland Comprehensive Assessment Program"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Carey Wright appointed interim state superintendent",
+    "date": "2023-10-06",
+    "author": "",
+    "docref": "news/194869758F56F4C8",
+    "article_id": "search-hits__hit--7920",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 6,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article reports on the appointment of an interim state superintendent of schools, which directly pertains to the education system and its leadership."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Maryland Interim State Superintendent Carey Wright",
+      "Governor Wes Moore",
+      "State Board President Clarence Crawford"
+    ],
+    "places": [
+      "Maryland"
+    ],
+    "organizations": [
+      "Maryland State Board of Education",
+      "MSDE Transition Team"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "'We will celebrate some of the books that have been challenged' - Library director 'shocked' by efforts nationwide to remove controversial books",
+    "date": "2023-10-09",
+    "author": "Laura Tayman",
+    "docref": "news/19494FD2B4588EF8",
+    "article_id": "search-hits__hit--7896",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 9,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.93,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.93
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.68
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article focuses on a library director discussing library services, reading programs, and book challenges, which are primarily related to educational resources and community learning."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Kent County Library Executive Director Arnessa Dowell",
+      "Chief Donna Wolf Mother Abbott"
+    ],
+    "places": [
+      "Kent County, Maryland",
+      "Eastern Shore, Maryland"
+    ],
+    "organizations": [
+      "Kent County Library",
+      "Maryland Humanities",
+      "American Libraries Association",
+      "Nause-Waiwash Band of Indians",
+      "One Maryland One Book program"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Caroline schools, grounds spruced up over summer",
+    "date": "2023-10-11",
+    "author": "Connie Connolly; cconnolly@chespub.com",
+    "docref": "news/194A034AB54A5968",
+    "article_id": "search-hits__hit--7870",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 11,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.93,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.93
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.45
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article details school district operations, facility upgrades, and renovations, which are directly related to the education sector."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Public Schools Director of Operations William Mengel"
+    ],
+    "places": [
+      "Caroline County",
+      "Denton",
+      "Greensboro",
+      "Federalsburg",
+      "Ridgely"
+    ],
+    "organizations": [
+      "Caroline County Public Schools",
+      "Caroline County Public Schools Department of Operations",
+      "Colonel Richardson High School",
+      "North Caroline High School",
+      "Federalsburg Elementary School",
+      "Greensboro Elementary School",
+      "Denton Elementary School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "'You are a 10!' - Speaker motivates, inspires at Talbot schools",
+    "date": "2023-10-11",
+    "author": "",
+    "docref": "news/194A034A95F49718",
+    "article_id": "search-hits__hit--7863",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 11,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.92,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.92
+        },
+        {
+          "topic": "Health",
+          "score": 0.68
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.45
+        },
+        {
+          "topic": "Race & Diversity",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article reports on a motivational speaker visiting public schools to address student well‑being and self‑esteem, making it primarily an education story, with secondary relevance to health (mental health) and arts (performer)."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "International motivational performer Alex Boyé",
+      "Talbot County Superintendent Sharon Pepukayi"
+    ],
+    "places": [
+      "Easton, Maryland",
+      "Talbot County, Maryland"
+    ],
+    "organizations": [
+      "Talbot County Public Schools",
+      "ParentGuidance.org",
+      "Cook Center for Human Connection",
+      "MD Aware II grant",
+      "Easton Middle School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Talbot Mentors celebrates recent college graduates",
+    "date": "2023-10-12",
+    "author": "Contributed",
+    "docref": "news/194A5530D2360C60",
+    "article_id": "search-hits__hit--7856",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 12,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.42
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.15
+        }
+      ],
+      "explanation": "The article highlights recent college graduates, their academic achievements, scholarships, and future educational plans, making it primarily about education."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Talbot Mentors Executive Director Kentavius Jones",
+      "Tabius J. Wilson, Jr.",
+      "Randei Collins",
+      "Taylan Brooks",
+      "John Strickland",
+      "Anne Davis",
+      "Jordan Loyd"
+    ],
+    "places": [
+      "Easton, MD"
+    ],
+    "organizations": [
+      "Talbot Mentors",
+      "Hampton University",
+      "George Mason University Antonin Scalia Law School",
+      "Washington College",
+      "Washington Scholars Program",
+      "Morgan State University",
+      "University of Maryland Global Campus",
+      "Loyola University",
+      "Textron Systems"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "TCPS announces class of 2023 accomplishments",
+    "date": "2023-10-13",
+    "author": "Maggie Trovato; mtrovato@chespub.com",
+    "docref": "news/194AB4A69465B1E8",
+    "article_id": "search-hits__hit--7800",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 13,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article reports on high school graduation statistics, college plans, scholarships, and academic achievements, which are core education news."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Talbot County Superintendent Sharon Pepukayi"
+    ],
+    "places": [
+      "Easton, Maryland",
+      "St. Michaels, Maryland",
+      "Talbot County, Maryland"
+    ],
+    "organizations": [
+      "Talbot County Public Schools",
+      "Easton High",
+      "St. Michaels Middle High"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "VALDÉS-BRADNER WINS ANOTHER TEACHER OF THE YEAR AWARD",
+    "date": "2023-10-18",
+    "author": "",
+    "docref": "news/194C45AA5E6697C0",
+    "article_id": "search-hits__hit--7757",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 18,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.15
+        }
+      ],
+      "explanation": "The article reports on a teacher receiving a state-level Teacher of the Year award, which directly relates to the education sector."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Mirta Valdés-Bradner",
+      "Aubrey Swisher"
+    ],
+    "places": [
+      "Columbia, Maryland"
+    ],
+    "organizations": [
+      "Maryland Foreign Language Association",
+      "Howard Community College",
+      "North Caroline High School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Howie sworn into vacant Board of Education seat",
+    "date": "2023-10-18",
+    "author": "Maggie Trovato; mtrovato@chespub.com",
+    "docref": "news/194C45AA2A06ED28",
+    "article_id": "search-hits__hit--7755",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 18,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article reports on the swearing-in of a new member of a county Board of Education, focusing on her educational background and role, making Education the most relevant category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Curriculum Supervisor Anna Howie",
+      "Governor Wes Moore",
+      "Talbot County Circuit Court Clerk Kathi Duvall",
+      "Board President Emily Jackson",
+      "TCEA President Andrew Burke"
+    ],
+    "places": [
+      "Easton, Maryland",
+      "Talbot County, Maryland"
+    ],
+    "organizations": [
+      "Talbot County Board of Education",
+      "Dorchester County Public Schools",
+      "Mace's Lane Middle School",
+      "Talbot County Public Schools",
+      "Talbot County Education Association"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Making history - Students work towards National History Day competition",
+    "date": "2023-10-18",
+    "author": "Laura Tayman",
+    "docref": "news/194C45AA51778308",
+    "article_id": "search-hits__hit--7744",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 18,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.45
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article focuses on teachers guiding students in a history competition, emphasizing research, skills development, and school‑library partnerships, which aligns primarily with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Centreville Middle School history teacher Thomas Hayman",
+      "Centreville Middle School history teacher Andy Anders"
+    ],
+    "places": [
+      "Queen Anne's County",
+      "Kent Island",
+      "Talbot County",
+      "Easton",
+      "Centreville",
+      "Chesapeake College",
+      "University of Maryland, Baltimore County"
+    ],
+    "organizations": [
+      "Centreville Middle School",
+      "Queen Anne's County Library",
+      "Talbot County Free Library",
+      "Chesapeake College",
+      "University of Maryland, Baltimore County",
+      "National History Day"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Easton grad wins DAR scholarship - Life",
+    "date": "2023-10-19",
+    "author": "Contributed",
+    "docref": "news/194D0372CD456278",
+    "article_id": "search-hits__hit--7720",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 19,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article reports on a scholarship award to a recent graduate, focusing on academic achievement and future studies, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Natasha Panduwawala"
+    ],
+    "places": [
+      "Easton, Maryland",
+      "Talbot County, Maryland",
+      "Ellicott City, Maryland"
+    ],
+    "organizations": [
+      "Gen. Perry Benson Chapter of the National Society of the Daughters of the American Revolution",
+      "National Daughters of the American Revolution",
+      "Maryland State Society of the Daughters of the American Revolution"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Cruise benefits St. Michaels library expansion",
+    "date": "2023-10-19",
+    "author": "Contributed",
+    "docref": "news/194D0372CC8110A8",
+    "article_id": "search-hits__hit--7714",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 19,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.65
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article focuses on a library expansion and fundraising efforts by a community group, which aligns most closely with the Education topic. Secondary relevance includes fundraising (Business/Economy) and the musical entertainment provided (Arts & Culture)."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [],
+    "places": [
+      "St. Michaels",
+      "Easton",
+      "Leeds Creek"
+    ],
+    "organizations": [
+      "Friends of the Talbot County Free Library",
+      "St. Michaels Library",
+      "Chesapeake Bay Maritime Museum"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "It's in the family - Anna Howie speaks on joining Board of Education",
+    "date": "2023-10-20",
+    "author": "Maggie Trovato; mtrovato@chespub.com",
+    "docref": "news/194DEE28C5A6F5E0",
+    "article_id": "search-hits__hit--7687",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 20,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article focuses on Anna Howie's appointment to the Talbot County Board of Education, her background in teaching, and education policy priorities, making Education the most relevant category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Talbot County Board of Education member Anna Howie",
+      "Governor Wes Moore",
+      "District 5 board member Susan Delean-Botkin"
+    ],
+    "places": [
+      "Easton",
+      "Talbot County",
+      "Dorchester County"
+    ],
+    "organizations": [
+      "Talbot County Board of Education",
+      "Talbot County Public Schools",
+      "Dorchester County Public Schools",
+      "Mace's Lane Middle School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "For All Seasons welcomes mental health interns",
+    "date": "2023-10-27",
+    "author": "Contributed",
+    "docref": "news/194FFA2A6CA08F80",
+    "article_id": "search-hits__hit--7575",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 27,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.88,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.88
+        },
+        {
+          "topic": "Health",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.4
+        }
+      ],
+      "explanation": "The article primarily discusses an internship program for students in social work, nursing, and counseling, highlighting educational pathways and training, making Education the best match, with secondary relevance to Health and Public Safety."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Meghan E. McPherson",
+      "Brianna Mench",
+      "Kevin Nugent",
+      "Kristen Gordy, RN, MSN, CRNP"
+    ],
+    "places": [
+      "Cambridge, Maryland",
+      "Princess Anne, Maryland",
+      "Maryland Eastern Shore"
+    ],
+    "organizations": [
+      "For All Seasons"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "QA Advocates for Youth appoints new director",
+    "date": "2023-10-30",
+    "author": "",
+    "docref": "news/1950460C20C74FC8",
+    "article_id": "search-hits__hit--7551",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 10,
+    "day": 30,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article focuses on a nonprofit that supports youth and families, highlighting board appointments and the educational backgrounds of members, making Education the most relevant category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Advocates President Angela Price",
+      "Executive Director Judy Corchiarino",
+      "Board Member Lynn Engelmeyer",
+      "Board Member Carol Franks-Randall",
+      "Board Member Erin Coyne",
+      "Board Vice President Chris Perkins",
+      "Board Secretary Mary Walker",
+      "Board Treasurer Wayne Humphries",
+      "Board Member Jenny Crossley",
+      "Board Member Carol D'agostino"
+    ],
+    "places": [
+      "Grasonville, MD",
+      "Queen Anne's County, MD"
+    ],
+    "organizations": [
+      "Queen Anne's County Advocates for Youth Inc."
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Chesapeake Forum to host final classes of fall semester",
+    "date": "2023-11-01",
+    "author": "Contributed",
+    "docref": "news/1950FCD68EE16AF0",
+    "article_id": "search-hits__hit--7540",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 1,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.88,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.88
+        },
+        {
+          "topic": "Race & Diversity",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article announces upcoming classes and lectures, which are primarily educational events, though they address historical racial issues."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "William Messner",
+      "Stockdale Institute deputy director Jeff Macris"
+    ],
+    "places": [
+      "Easton Family YMCA",
+      "Easton, Maryland",
+      "Talbot County"
+    ],
+    "organizations": [
+      "Chesapeake Forum",
+      "US Naval Academy",
+      "Stockdale Institute"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Black and Hispanic faculty underrepresented in universities",
+    "date": "2023-11-02",
+    "author": "Nira Dayanim; Capital News Service",
+    "docref": "news/195145E892E24250",
+    "article_id": "search-hits__hit--7461",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 2,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Race & Diversity",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.2
+        }
+      ],
+      "explanation": "The article discusses faculty demographics and underrepresentation of Black and Hispanic professors at Maryland public universities, which is primarily an issue within the education sector, though it also relates to race and diversity."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Vice Provost for Faculty Laura Perna",
+      "Dean Kimberly Griffin",
+      "Bioengineering Professor Katharina Maisel"
+    ],
+    "places": [
+      "Maryland"
+    ],
+    "organizations": [
+      "University of Maryland, Baltimore County",
+      "University of Maryland, College Park",
+      "Towson University",
+      "Frostburg State University",
+      "Salisbury University",
+      "St. Mary's College of Maryland",
+      "University of Pennsylvania",
+      "U.S. Department of Education",
+      "Integrated Postsecondary Education Data System (IPEDS)",
+      "University of Maryland College of Education"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Talbot County resident named to Maryland Humanities board",
+    "date": "2023-11-03",
+    "author": "Contributed",
+    "docref": "news/1951954C034AB278",
+    "article_id": "search-hits__hit--7457",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 3,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.88,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.88
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.4
+        }
+      ],
+      "explanation": "The article focuses on a local resident's appointment to the board of Maryland Humanities, an educational nonprofit, and highlights her background as a teacher and museum educator, making Education the most relevant category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Chesapeake Bay Maritime Museum Vice President of Education and Interpretation Jill Ferris"
+    ],
+    "places": [
+      "Easton",
+      "Talbot County"
+    ],
+    "organizations": [
+      "Maryland Humanities",
+      "Chesapeake Bay Maritime Museum"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "STEM festival engages youth in science, math and more",
+    "date": "2023-11-09",
+    "author": "Eric Sylvia; Special To The Star Democrat",
+    "docref": "news/19539F07C92C86A8",
+    "article_id": "search-hits__hit--7374",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 9,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.3
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.2
+        }
+      ],
+      "explanation": "The article describes a STEM festival aimed at youth learning in science, technology, engineering, and math, highlighting educational activities and community outreach, making Education the most fitting category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Navonne Owen, UME/4-H educator for Caroline County"
+    ],
+    "places": [
+      "Wye Mills"
+    ],
+    "organizations": [
+      "Chesapeake College",
+      "Eastern Shore Higher Education Center",
+      "Maryland STEM Festival 2023",
+      "University of Maryland Extension",
+      "4-H",
+      "Family & Consumer Sciences",
+      "Caroline County 4-H Office"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Art teachers recognized by Retired School Personnel Association",
+    "date": "2023-11-09",
+    "author": "Contributed",
+    "docref": "news/19539F07B5517D88",
+    "article_id": "search-hits__hit--7349",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 9,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.68,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.68
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.32
+        }
+      ],
+      "explanation": "The article focuses on teachers being recognized for their contributions to fine arts, highlighting their roles in education and professional achievements, making Education the primary category with Arts & Culture as a secondary relevance."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Easton Middle School music director Julie Hawley",
+      "Easton Middle School art teacher Shawn Leffler"
+    ],
+    "places": [
+      "Easton"
+    ],
+    "organizations": [
+      "Talbot County Retired Personnel Association",
+      "Easton Middle School",
+      "Talbot County Public Schools"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "A year of community outreach and literacy",
+    "date": "2023-11-20",
+    "author": "",
+    "docref": "news/19573C1C81253A68",
+    "article_id": "search-hits__hit--7217",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 20,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.94,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.94
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article describes a library's mobile outreach program focused on literacy and learning, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Tamar Sarnoff",
+      "Queen Anne's County Library Director Janet Salazar"
+    ],
+    "places": [
+      "Crumpton Park"
+    ],
+    "organizations": [
+      "Queen Anne's County Library",
+      "Maryland State Library",
+      "The Judy Center at Sudlersville",
+      "Queen Anne's County Family Center",
+      "Queen Anne's County Library Mobile Library"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "High school students become college scientists",
+    "date": "2023-11-21",
+    "author": "Laura Tayman; ltayman@chespub.com",
+    "docref": "news/19579153A828B360",
+    "article_id": "search-hits__hit--7208",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 21,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Science",
+          "score": 0.0
+        }
+      ],
+      "explanation": "The article describes a partnership between a high school and a college for science labs, focusing on student learning experiences and curriculum, which aligns directly with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Queen Anne's County High School science department chair Michael Geoffroy",
+      "Washington College W. Alton Jones Professor of Chemistry and Environmental Science Leslie Sherman",
+      "Washington College Chemistry lecturer Betsy Moyer‑Taylor",
+      "Washington College assistant professor Jeremy Bard",
+      "Washington College Professor of Chemistry Emeritus Frank Keegan"
+    ],
+    "places": [
+      "Chestertown, Maryland"
+    ],
+    "organizations": [
+      "Queen Anne's County High School",
+      "Washington College"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Education foundation established in Caroline - Four local leaders spearhead funding financial literacy opportunities for students",
+    "date": "2023-11-22",
+    "author": "Connie Connolly; cconnolly@chespub.com",
+    "docref": "news/1957E11DE6119B00",
+    "article_id": "search-hits__hit--7195",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 22,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.94,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.94
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.68
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article centers on the creation of a county education foundation and its focus on financial literacy programs for K‑12 students, which directly relates to the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Superintendent Derek Simmons",
+      "Mid‑Shore Community Foundation Director Tolbert Rowe",
+      "Certified Public Accountant Robert Willey",
+      "WIN Transport Chief Financial Officer Wayne Cole",
+      "Dr. James Orr Jr."
+    ],
+    "places": [
+      "Caroline County",
+      "Denton",
+      "Salisbury"
+    ],
+    "organizations": [
+      "Caroline County Public Schools",
+      "Caroline County Education Foundation",
+      "Mid‑Shore Community Foundation",
+      "Junior Achievement of the Eastern Shore",
+      "Maryland State Department of Education",
+      "Blueprint for Maryland Education"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "CCTC AMP students present designs - Rashad Wilson's winning design adorns dartboard cabinet project",
+    "date": "2023-11-22",
+    "author": "",
+    "docref": "news/1957E11DE38F60D8",
+    "article_id": "search-hits__hit--7177",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 22,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.94,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.94
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.68
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article describes a school-based Advanced Manufacturing Program where students design and produce a dartboard cabinet, focusing on the educational process, student presentations, and curriculum activities."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Rashad Wilson",
+      "Teacher Keith Hale",
+      "School Board Member Donna DiGiacomo",
+      "Lindsey McCormick"
+    ],
+    "places": [
+      "Caroline County"
+    ],
+    "organizations": [
+      "Caroline Career and Technology Center",
+      "Caroline County Public Schools",
+      "Advanced Manufacturing Program"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "PES teacher wins McNeely Award",
+    "date": "2023-11-22",
+    "author": "",
+    "docref": "news/1957E11DE85E3A80",
+    "article_id": "search-hits__hit--7175",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 22,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Health",
+          "score": 0.68
+        }
+      ],
+      "explanation": "The article focuses on a school teacher receiving a professional award, highlighting achievements in teaching and involvement in health/physical education, making Education the primary category with Health as a close secondary."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Preston Elementary School physical education teacher Christi Saylor"
+    ],
+    "places": [
+      "Denton",
+      "Caroline County"
+    ],
+    "organizations": [
+      "Preston Elementary School",
+      "Society of Health and Physical Educators of Maryland",
+      "Caroline County Public Schools Board of Education",
+      "SHAPE Maryland"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Apprenticeships explored at local high schools",
+    "date": "2023-11-27",
+    "author": "Laura Tayman; tayman@chespub.com",
+    "docref": "news/19598222D19D3B48",
+    "article_id": "search-hits__hit--7127",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 27,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.58
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.42
+        }
+      ],
+      "explanation": "The article discusses high school career coaches, apprenticeship programs, and student pathways to jobs, which are primarily about educational initiatives and vocational training."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Kent Island High School Career Coach Karen Hesson",
+      "Queen Anne's County High School Career Coach Betsy Ricketts",
+      "Queen Anne's County Economic & Tourism Development Career Technology Liaison Connie Dean",
+      "Queen Anne's Public Schools Supervisor of Career and Technology Education Adam Tolley",
+      "Queen Anne's County Commissioner Philip Dumenil"
+    ],
+    "places": [
+      "Queen Anne's County",
+      "Kent Island"
+    ],
+    "organizations": [
+      "Kent Island High School",
+      "Queen Anne's County High School",
+      "Queen Anne's County Economic & Tourism Development",
+      "Queen Anne's Public Schools",
+      "Chesapeake College"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Scholar to discuss Anna Douglass",
+    "date": "2023-11-29",
+    "author": "Contributed",
+    "docref": "news/195A333718E98488",
+    "article_id": "search-hits__hit--7109",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 29,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.12
+        },
+        {
+          "topic": "Race & Diversity",
+          "score": 0.07
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.03
+        }
+      ],
+      "explanation": "The article announces a scholarly lecture about Anna Douglass at a museum, which is primarily an educational event."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Frederick Douglass scholar Celeste-Marie Bernier",
+      "Anna Murray Douglass"
+    ],
+    "places": [
+      "Denton"
+    ],
+    "organizations": [
+      "Frederick Douglass Honor Society",
+      "Caroline County Public Library",
+      "Caroline County Historical Society",
+      "Museum of Rural Life"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Caroline Commissioners approve summer school grant",
+    "date": "2023-11-29",
+    "author": "Connie Connolly; cconnolly@chespub.com",
+    "docref": "news/195A33370CDBBB98",
+    "article_id": "search-hits__hit--7082",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 29,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.78
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article centers on a Maryland Department of Education grant for summer learning centers, making education the primary focus, though it is reported in the context of a county commission meeting (local government) and mentions contract spending (business/economy)."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Recreation and Parks Director Jamie Beachy",
+      "Caroline County Commission Vice President Larry Porter",
+      "Caroline County Commission President Travis Breeding"
+    ],
+    "places": [
+      "Caroline County",
+      "Denton"
+    ],
+    "organizations": [
+      "Caroline County Commissioners",
+      "Maryland Department of Education"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "School principals prepare for the Blueprint For Maryland's Future",
+    "date": "2023-11-30",
+    "author": "Cait Kelley And Caley Fox Shannon",
+    "docref": "news/195ADD0B119B4748",
+    "article_id": "search-hits__hit--7035",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 11,
+    "day": 30,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.42
+        }
+      ],
+      "explanation": "The article discusses the implementation of the Blueprint for Maryland's Future, a statewide education reform law, focusing on school administrators, curriculum changes, teacher salaries, and pre‑K programs, making Education the most appropriate category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Blueprint Accountability and Implementation Board Executive Director Rachel Hise",
+      "Maryland Association of Secondary School Principals Executive Director Addie Kaufman",
+      "Fort Foote Elementary Principal Ryan Daniel",
+      "Broadneck Elementary Principal Jamie Miller"
+    ],
+    "places": [
+      "Ocean City"
+    ],
+    "organizations": [
+      "Blueprint for Maryland's Future",
+      "Kirwan Commission",
+      "Blueprint Accountability and Implementation Board",
+      "Maryland Association of Secondary School Principals",
+      "Fort Foote Elementary",
+      "Broadneck Elementary",
+      "Maryland General Assembly",
+      "School Leaders Conference"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Caroline County Public Schools Concert Schedule",
+    "date": "2023-12-06",
+    "author": "",
+    "docref": "news/195CC5C7C1910040",
+    "article_id": "search-hits__hit--6962",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 6,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.15
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.07
+        }
+      ],
+      "explanation": "The article lists a schedule of school concerts, which is primarily information about public school activities, fitting the Education category more closely than Arts & Culture or Public Notices."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [],
+    "places": [
+      "Caroline County"
+    ],
+    "organizations": [
+      "Caroline County Public Schools",
+      "Federalsburg Elementary School",
+      "Greensboro Elementary School",
+      "Lockerman Middle School",
+      "Denton Elementary School",
+      "North Caroline High School",
+      "Preston Elementary School",
+      "Colonel Richardson High School",
+      "Colonel Richardson Middle School",
+      "Ridgely Elementary School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Ccps Sophomores Explore Career Options At Rotary Fair",
+    "date": "2023-12-06",
+    "author": "",
+    "docref": "news/195CC5C7C0769B48",
+    "article_id": "search-hits__hit--6960",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 6,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.88,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.88
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.65
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article focuses on a career exploration fair for high school sophomores, highlighting educational programs, workshops, and guidance for students, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "event chair Sue Simmons",
+      "CCPS director of college and career Lindsey McCormick",
+      "Talbot County Equity Facilitator Devon Beck"
+    ],
+    "places": [
+      "Denton, Maryland",
+      "Caroline County, Maryland"
+    ],
+    "organizations": [
+      "Caroline County Public Schools",
+      "Rotary Club of Denton",
+      "General James F. Fretterd Community Center",
+      "Smiles by Holsinger",
+      "Shore United Bank",
+      "Summit Community Bank",
+      "Sisk Fulfillment",
+      "Chesapeake Community College",
+      "Upper Shore Workforce Investment Board"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "DECEMBER at Chesapeake College",
+    "date": "2023-12-08",
+    "author": "",
+    "docref": "news/195D1B03EB35E7A8",
+    "article_id": "search-hits__hit--6897",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 8,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.93,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.93
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        },
+        {
+          "topic": "Arts & Culture",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article lists college class offerings, info sessions, and training programs, which are primarily about educational opportunities."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [],
+    "places": [],
+    "organizations": [
+      "Chesapeake College",
+      "TPAC",
+      "Cambridge Center",
+      "Eastern Shore Higher Education Center (ESHEC)"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Superintendent Outlines Budget Priorities, Timeline",
+    "date": "2023-12-13",
+    "author": "Connie Connolly; Cconnolly@Chespub.Com",
+    "docref": "news/195F63CEB5A0C668",
+    "article_id": "search-hits__hit--6865",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 13,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.68
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.55
+        }
+      ],
+      "explanation": "The article focuses on a school superintendent discussing budget priorities, funding challenges, and policy mandates for public schools, which aligns directly with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Superintendent Derek Simmons"
+    ],
+    "places": [
+      "Caroline County",
+      "Federalsburg",
+      "Greensboro"
+    ],
+    "organizations": [
+      "Caroline County Public Schools",
+      "Caroline County Board of Education",
+      "Chesapeake College",
+      "Caroline County Commissioners"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Lockerman Middle Receives Stem Donation",
+    "date": "2023-12-13",
+    "author": "",
+    "docref": "news/195F63CEC06F2CF0",
+    "article_id": "search-hits__hit--6852",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 13,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.42
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.15
+        }
+      ],
+      "explanation": "The article reports on a middle school receiving a STEM resources donation, which directly relates to school curriculum and learning, making Education the most fitting category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Public Schools Director of College and Career Readiness Lindsey McCormick",
+      "Caroline County Public Schools Superintendent Derek Simmons"
+    ],
+    "places": [
+      "Denton, Maryland",
+      "Caroline County, Maryland"
+    ],
+    "organizations": [
+      "Lockerman Middle School",
+      "Cal Ripken, Sr. Foundation",
+      "University of Maryland Medical System Foundation",
+      "University of Maryland Medical Center",
+      "Caroline County Public Schools"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Caroline Students Earn Biliteracy Credentials",
+    "date": "2023-12-13",
+    "author": "Connie Connolly; Cconnolly@Chespub.Com",
+    "docref": "news/195F63CEA88EEF40",
+    "article_id": "search-hits__hit--6845",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 13,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.15
+        }
+      ],
+      "explanation": "The article reports on a school board recognizing students for earning the Global Seal of Biliteracy, which is directly related to academic achievement and school programs, making Education the most appropriate category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Public Schools supervisor of instruction Jon Marketto",
+      "North Caroline High School Spanish language teacher Mirta Valdes-Bradner"
+    ],
+    "places": [
+      "Caroline County",
+      "Denton"
+    ],
+    "organizations": [
+      "Caroline County Board of Education",
+      "North Caroline High School",
+      "Global Seal of Biliteracy"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Tcps Gives Update On Its Priorities At Board Meeting",
+    "date": "2023-12-15",
+    "author": "Maggie Trovato; Mtrovato@Chespub. Com",
+    "docref": "news/1960121BA0B48B18",
+    "article_id": "search-hits__hit--6780",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 15,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article reports on a Talbot County Board of Education meeting discussing school priorities, assessments, staff hiring, and student wellbeing, which directly pertains to the education sector."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Talbot County Superintendent Sharon Pepukayi",
+      "Talbot County Assistant Superintendent for Curriculum and Instruction Helga Einhorn",
+      "Talbot County K-6 Math Curriculum Supervisor Daisy Bradwell",
+      "Talbot County Director of Student Services Darlene Spurrier",
+      "Talbot County Assistant Superintendent for Administrative and Support Services Lynne Duncan",
+      "Talbot County Board member Jymil Thompson",
+      "Talbot County Board of Education President Emily Jackson",
+      "Talbot County Board of Education Vice President Candace Henry"
+    ],
+    "places": [
+      "Easton, MD",
+      "Talbot County"
+    ],
+    "organizations": [
+      "Talbot County Public Schools",
+      "Talbot County Board of Education",
+      "Grow Your Own Teachers Scholarship Program"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Local Student Selected For General Assembly Page Program",
+    "date": "2023-12-15",
+    "author": "Maggie Trovato; Mtrovato@Chespub. Com",
+    "docref": "news/1960121BA58F14F0",
+    "article_id": "search-hits__hit--6779",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 15,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.92,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.92
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.58
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.31
+        }
+      ],
+      "explanation": "The article focuses on a high‑school student’s academic and extracurricular achievements and his selection for a state legislative student page program, which is primarily an educational opportunity."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Easton High School senior William O'Donnell",
+      "Talbot County Superintendent Sharon Pepukayi"
+    ],
+    "places": [
+      "Easton, Maryland",
+      "Talbot County, Maryland"
+    ],
+    "organizations": [
+      "Easton High School",
+      "Talbot County Public Schools",
+      "Maryland General Assembly Student Page Program"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Talbot senior center opens upgraded computer lab",
+    "date": "2023-12-22",
+    "author": "CONTRIBUTED",
+    "docref": "news/1962B7C0A4514D60",
+    "article_id": "search-hits__hit--6699",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 22,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.65
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article focuses on a senior center's new computer lab that provides classes and learning opportunities, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Mayor Megan Cook",
+      "Upper Shore Aging Board President Kay Brodie",
+      "Talbot County Senior Center Manager Childlene Brooks"
+    ],
+    "places": [
+      "Easton, MD",
+      "Talbot County",
+      "Brookletts Place"
+    ],
+    "organizations": [
+      "Upper Shore Aging Inc.",
+      "Talbot County Senior Center",
+      "T-Mobile"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Holiday de-stress - Celebration alleviates overstimulation associated with holidays",
+    "date": "2023-12-26",
+    "author": "Will Bontrager; wbontrager@chespub.com",
+    "docref": "news/196315B5C5914B00",
+    "article_id": "search-hits__hit--6694",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 26,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.93,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.93
+        },
+        {
+          "topic": "Health",
+          "score": 0.45
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article describes a school‑based sensory holiday celebration for children receiving special education services, highlighting educators, parent coordinators, and special education programs, making Education the most fitting category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Family Resource Center Parent Coordinator Elizabeth Tussing",
+      "Supervisor of Special Education Wendy Keen",
+      "Coordinator of Special Education Erica Costa-Gooding",
+      "Judy Center Coordinator Erin Legg",
+      "Judy Center Coordinator Beth DeSchepper",
+      "Infant and Toddler Service Coordinator Susan Johnson",
+      "Family Service Coordinator Brittani Fahrman"
+    ],
+    "places": [
+      "Chestertown",
+      "Kent County"
+    ],
+    "organizations": [
+      "Kent County Middle School",
+      "Kent County Infants and Toddlers program",
+      "Family Resource Center",
+      "Special Education Citizens Advisory Committee (SECAC)",
+      "Judy Center",
+      "Parents Place of Maryland"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Cambridge Rotary Club rings in holiday season at Walmart",
+    "date": "2023-12-29",
+    "author": "CONTRIBUTED",
+    "docref": "news/1963FFABDBEE3520",
+    "article_id": "search-hits__hit--6650",
+    "content_source": "full_document",
+    "year": 2023,
+    "month": 12,
+    "day": 29,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.55,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.55
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.2
+        },
+        {
+          "topic": "None of these",
+          "score": 0.15
+        }
+      ],
+      "explanation": "The article centers on a high school Interact Club’s participation in a community service event with the Rotary Club, linking it to youth education and extracurricular activities."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "President Mia Jackson",
+      "Vice President Tyler Sears",
+      "Lily Spedden",
+      "Elise Jones",
+      "R'Miya Rosado",
+      "Elsie Jones"
+    ],
+    "places": [
+      "Cambridge"
+    ],
+    "organizations": [
+      "Cambridge Rotary Club",
+      "Cambridge South Dorchester High School Interact Club",
+      "Salvation Army",
+      "Walmart"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Character Counts - Queen Anne's County commissioners recognize Gavin Schulte",
+    "date": "2024-01-03",
+    "author": "Laura Tayman; ltayman@chespub.com",
+    "docref": "news/196665F2090DCB78",
+    "article_id": "search-hits__hit--6621",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 3,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.15
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.07
+        }
+      ],
+      "explanation": "The article focuses on a high school student recognized for community service, highlighting his school involvement and character development, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Gavin Schulte",
+      "Commissioner Philip L. Dumenil",
+      "Jone Taylor",
+      "Kent Island High School art teacher Andrea Schulte"
+    ],
+    "places": [
+      "Stevensville",
+      "Queen Anne's County",
+      "Kent Island"
+    ],
+    "organizations": [
+      "Queen Anne's County Commissioners",
+      "Kent Island High School",
+      "Queen Anne's County Social Services"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "School board posts highlights, next meetings",
+    "date": "2024-01-03",
+    "author": "",
+    "docref": "news/196665F2154177A0",
+    "article_id": "search-hits__hit--6612",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 3,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article reports on a school board meeting, budget reports, officer elections, and upcoming public meetings, which directly pertains to the education sector."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Board President Rick Barton",
+      "Caroline County Board of Education Vice President Jones",
+      "Caroline County Chief Finance Officer Erin Thornton",
+      "Caroline County Public Schools Director of Operations William Mengel"
+    ],
+    "places": [
+      "Denton, Maryland",
+      "Caroline County, Maryland"
+    ],
+    "organizations": [
+      "Caroline County Board of Education",
+      "Caroline County Public Schools",
+      "Caroline County Commissioners"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Talbot County Garden Club announces winter lecture series",
+    "date": "2024-01-04",
+    "author": "Contributed",
+    "docref": "news/19660EE7CAB4EFB0",
+    "article_id": "search-hits__hit--6587",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 4,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Environment",
+          "score": 0.62
+        },
+        {
+          "topic": "Agriculture",
+          "score": 0.55
+        }
+      ],
+      "explanation": "The article announces a series of public lectures on gardening, sustainability, and horticulture, emphasizing learning and community education."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Garden consultant and podcaster Leslie Harris",
+      "Horticultural consultant, garden coach, award-winning educator/author/podcaster Eva Monheim",
+      "Event co-chair Zandi Nammack",
+      "Event co-chair Kim Eckert"
+    ],
+    "places": [
+      "Talbot County",
+      "Easton"
+    ],
+    "organizations": [
+      "Talbot County Garden Club",
+      "Talbot County Free Library"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Problems persist in juvenile services schooling",
+    "date": "2024-01-04",
+    "author": "Steph Quinn; Capital News Service",
+    "docref": "news/19660EE7DA7E5D28",
+    "article_id": "search-hits__hit--6573",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 4,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.94,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.94
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.45
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article discusses challenges and policies related to schooling for incarcerated youth in juvenile services, focusing on teacher vacancies, curriculum delivery, and legislative actions—clearly an education issue."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Victor Cullen Center Principal Todd Rasher",
+      "Director of Education and Senior Adviser to the Juvenile Services Secretary David Domenici"
+    ],
+    "places": [
+      "Sabillasville",
+      "Frederick County"
+    ],
+    "organizations": [
+      "Victor Cullen Center",
+      "Maryland Juvenile Services Department",
+      "Maryland General Assembly",
+      "Office of the Inspector General",
+      "Maryland State Department of Education"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "'Diving Deep' with dyslexia: Local special education teacher works to raise awareness",
+    "date": "2024-01-05",
+    "author": "TAMARA FORTE Special to the Star Democrat",
+    "docref": "news/19739A278FF21F70",
+    "article_id": "search-hits__hit--6553",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 5,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.94,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.94
+        },
+        {
+          "topic": "Health",
+          "score": 0.45
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.2
+        }
+      ],
+      "explanation": "The article focuses on dyslexia awareness, special education teaching, early identification, and community workshops, which are primarily education‑related issues."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Special Education teacher Lindsey Parte"
+    ],
+    "places": [
+      "Stevensville"
+    ],
+    "organizations": [
+      "Decoding Dyslexia Maryland Eastern Shore Chapter",
+      "Queen Anne's County Library Kent Island Branch"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Denton Elementary principal earns doctorate",
+    "date": "2024-01-17",
+    "author": "Connie Connolly",
+    "docref": "news/19739A2B83EFBC78",
+    "article_id": "search-hits__hit--6424",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 17,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.58
+        }
+      ],
+      "explanation": "The article reports on a school principal receiving a doctorate and being recognized by the county Board of Education, which directly relates to the education sector."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Denton Elementary Principal Sarah Crebs-Oberdorf",
+      "Caroline County Superintendent Derek Simmons"
+    ],
+    "places": [
+      "Denton, Maryland",
+      "Caroline County, Maryland"
+    ],
+    "organizations": [
+      "Caroline County Board of Education",
+      "Denton Elementary School",
+      "Salisbury University",
+      "Caroline County Public Schools"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Blueprint pillar chairs share Caroline's progress",
+    "date": "2024-01-17",
+    "author": "Connie Connolly",
+    "docref": "news/19739A2B90880A58",
+    "article_id": "search-hits__hit--6419",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 17,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article details updates from the Caroline County Board of Education on the Blueprint for Maryland's Future, focusing on school pillars, funding, and policy implementation, which aligns directly with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Assistant Superintendent Tara Downes",
+      "Caroline County Superintendent Derek Simmons",
+      "Caroline County Supervisor of Instruction Elizabeth Saylor",
+      "Caroline County Supervisor of Human Resources Rob Willoughby",
+      "Caroline County College and Career Readiness Director Lindsey McCormick",
+      "Caroline County Supervisor of Instruction Christal Harkowa",
+      "Caroline County Supervisor of Special Education Erica McDonald",
+      "Caroline County Supervisor of Student Services Nicole Fisher"
+    ],
+    "places": [
+      "Caroline County, Maryland",
+      "Denton, Maryland"
+    ],
+    "organizations": [
+      "Caroline County Board of Education",
+      "Caroline County Public Schools",
+      "Maryland State Department of Education",
+      "Accountability and Implementation Board",
+      "Chesapeake College",
+      "Mount St. Mary's University",
+      "Upper Shore Workforce Investment Board"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Moore says budget will balance, protect school funding",
+    "date": "2024-01-18",
+    "author": "KIERSTEN HACKER Capital News Service",
+    "docref": "news/19739A2C236CB9C0",
+    "article_id": "search-hits__hit--6411",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 18,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.71
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.62
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.53
+        }
+      ],
+      "explanation": "The article centers on the governor's budget proposal that emphasizes fully funding the Blueprint for Maryland's Future, a major state education reform plan, making education the primary focus."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Governor Wes Moore",
+      "House Minority Leader Jason Buckel",
+      "Senate Minority Leader Stephen Hershey",
+      "Secretary of Budget and Management Helene Grady"
+    ],
+    "places": [
+      "Annapolis, Maryland",
+      "Allegany County",
+      "Caroline County",
+      "Cecil County",
+      "Kent County",
+      "Queen Anne's County",
+      "Maryland"
+    ],
+    "organizations": [
+      "Blueprint for Maryland's Future",
+      "Department of the Environment",
+      "Department of Juvenile Services",
+      "Department of Legislative Services",
+      "Maryland General Assembly"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Talbot Board of Education discusses proposed budget, Blueprint's affects",
+    "date": "2024-01-19",
+    "author": "Maggie Trovato",
+    "docref": "news/19739A2C8608D0A8",
+    "article_id": "search-hits__hit--6394",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 19,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.42
+        }
+      ],
+      "explanation": "The article focuses on the Talbot County Board of Education's budget proposal and the Blueprint for Maryland's Future, which are directly related to K‑12 education policy and funding."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Talbot County Superintendent Sharon Pepukayi",
+      "Chief Financial Officer Sarah Jones",
+      "Board President Emily Jackson",
+      "Board Vice President Candace Henry"
+    ],
+    "places": [
+      "Easton, MD",
+      "Talbot County, Maryland",
+      "Maryland"
+    ],
+    "organizations": [
+      "Talbot County Board of Education",
+      "Talbot County Public Schools",
+      "Maryland State Department of Education",
+      "Maryland General Assembly",
+      "Blueprint for Maryland's Future",
+      "Chesapeake College",
+      "Easton Middle School",
+      "Easton Elementary School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Superintendent shares schools' budget constraints with Commissioners",
+    "date": "2024-01-24",
+    "author": "Connie Connolly",
+    "docref": "news/19739A2E127CF0D0",
+    "article_id": "search-hits__hit--6342",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 24,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.93,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.93
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article focuses on school budget issues, funding mandates, and staffing concerns presented by the superintendent and finance officer to county commissioners, which is primarily an education matter."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Chief Finance Officer Erin Thornton",
+      "Caroline County Superintendent Derek Simmons",
+      "Commissioner Frank Bartz"
+    ],
+    "places": [
+      "Caroline County",
+      "Denton"
+    ],
+    "organizations": [
+      "Caroline County Public Schools",
+      "Caroline County Commissioners",
+      "Supportive Services Association"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "DCPS presentations show improvements in the district",
+    "date": "2024-01-24",
+    "author": "MAGGIE TROVATO mtrovato@chespub.com",
+    "docref": "news/19739A2E2DAFBD60",
+    "article_id": "search-hits__hit--6340",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 24,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article reports on kindergarten readiness data and school performance presented at a Dorchester County Board of Education meeting, focusing on curriculum and student outcomes, which aligns primarily with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "DCPS Director of Curriculum, Instruction and Assessment Jodi Colman"
+    ],
+    "places": [
+      "Cambridge",
+      "Dorchester County"
+    ],
+    "organizations": [
+      "Dorchester County Board of Education",
+      "Dorchester County Public Schools",
+      "Vienna Elementary School",
+      "Mace's Lane Middle School",
+      "Sandy Hill Elementary School",
+      "North Dorchester Middle School"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Eastern Shore Delegation to ask governor for Cade formula restoration",
+    "date": "2024-01-28",
+    "author": "Maggie Trovato",
+    "docref": "news/19738B629868F660",
+    "article_id": "search-hits__hit--6279",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 28,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.94,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.94
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.68
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article discusses the Cade Funding Formula for community colleges, budget cuts, and legislative actions, which are directly related to higher education policy and funding."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Governor Wes Moore",
+      "MACC Executive Director Brad Phillips",
+      "Wor-Wic Community College President Deborah Casey",
+      "Chesapeake College President Cliff Coppersmith",
+      "Del. Sheree Sample-Hughes",
+      "Del. Jefferson Ghrist"
+    ],
+    "places": [
+      "Annapolis",
+      "Eastern Shore",
+      "Dorchester County",
+      "Wicomico County",
+      "Kent County",
+      "Queen Anne's County",
+      "Cecil County",
+      "Caroline County"
+    ],
+    "organizations": [
+      "Eastern Shore Delegation",
+      "Maryland Association of Community Colleges",
+      "Wor-Wic Community College",
+      "Chesapeake College",
+      "House Appropriations Committee",
+      "Maryland Department of Legislative Services",
+      "University System of Maryland"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Leonard Hall school closes after lease, maintenance issues arise",
+    "date": "2024-01-30",
+    "author": "Michael Reid mreid@somdnews.com",
+    "docref": "news/19739A309D48B440",
+    "article_id": "search-hits__hit--6249",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 30,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article centers on the closure of Leonard Hall Junior Naval Academy, discussing lease termination, maintenance costs, and the impact on students, which are core education issues, though it also involves county officials."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "St. Mary's County Commissioner Mike Hewitt",
+      "St. Mary's County Commissioner President Randy Guy",
+      "St. Mary's County Commissioner Eric Colvin",
+      "Leonard Hall Junior Naval Academy Headmistress Sarah Green",
+      "Teacher Olivia Flynn",
+      "St. Mary's County Attorney Buffy Giddens"
+    ],
+    "places": [
+      "Leonardtown, Maryland",
+      "St. Mary's County, Maryland"
+    ],
+    "organizations": [
+      "Leonard Hall Junior Naval Academy",
+      "St. Mary's County Commissioners",
+      "St. Mary's County Attorney's Office"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Leonard Hall school closes after lease, maintenance issues arise",
+    "date": "2024-01-30",
+    "author": "Michael Reid mreid@somdnews.com",
+    "docref": "news/19738B634B816388",
+    "article_id": "search-hits__hit--6231",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 1,
+    "day": 30,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.86,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.86
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article centers on the closure of Leonard Hall Junior Naval Academy, discussing lease termination, maintenance costs, and the impact on students, which are core education issues, though it also involves county officials."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Commissioner Mike Hewitt",
+      "Commissioner President Randy Guy",
+      "Commissioner Eric Colvin",
+      "County Attorney Buffy Giddens",
+      "Headmistress Sarah Green",
+      "Olivia Flynn"
+    ],
+    "places": [
+      "St. Mary's County",
+      "Leonardtown"
+    ],
+    "organizations": [
+      "St. Mary's County Commissioners",
+      "Leonard Hall Junior Naval Academy"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "CarePacks awarded $15K from 100+ Women Who Care Talbot County",
+    "date": "2024-02-01",
+    "author": "Natalie Jones",
+    "docref": "news/19739A318978FCE0",
+    "article_id": "search-hits__hit--6182",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 1,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Health",
+          "score": 0.55
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article centers on a community group funding a program that provides meals to school‑age children, directly addressing student nutrition and its impact on learning, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Emily Moody",
+      "Easton Mayor Megan Cook",
+      "Amanda David",
+      "Karen Gadson"
+    ],
+    "places": [
+      "Talbot County",
+      "Easton",
+      "St. Michaels",
+      "Talbot County Free Library"
+    ],
+    "organizations": [
+      "100+ Women Who Care Talbot County",
+      "CarePacks of Talbot County",
+      "Chesapeake Multicultural Resource Center",
+      "St. Michaels Fire Department"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "CarePacks awarded $15K from 100+ Women Who Care Talbot County",
+    "date": "2024-02-01",
+    "author": "Natalie Jones",
+    "docref": "news/19738B64536299C8",
+    "article_id": "search-hits__hit--6146",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 1,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Health",
+          "score": 0.55
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article centers on a community group funding a program that provides meals to school‑age children, directly addressing student nutrition and its impact on learning, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Emily Moody",
+      "Easton Mayor Megan Cook",
+      "Amanda David",
+      "Karen Gadson"
+    ],
+    "places": [
+      "Talbot County",
+      "Easton",
+      "St. Michaels"
+    ],
+    "organizations": [
+      "CarePacks of Talbot County",
+      "100+ Women Who Care Talbot County",
+      "Talbot County Free Library",
+      "Chesapeake Multicultural Resource Center",
+      "St. Michaels Fire Department"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Teacher, Support Staff of the Year nominations now open",
+    "date": "2024-02-03",
+    "author": "TALBOT COUNTY PUBLIC SCHOOLS",
+    "docref": "news/19738B65283A2FF0",
+    "article_id": "search-hits__hit--6091",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 3,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.95,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.95
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article announces nomination procedures for Teacher of the Year and Support Staff of the Year in a public school system, which directly relates to education."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Assistant Superintendent Helga Einhorn"
+    ],
+    "places": [
+      "Easton",
+      "Talbot County"
+    ],
+    "organizations": [
+      "Talbot County Public Schools"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Sense of urgency needed on school absenteeism",
+    "date": "2024-02-04",
+    "author": "DAVID REEL",
+    "docref": "news/19738B657948D350",
+    "article_id": "search-hits__hit--6077",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 4,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Public Safety",
+          "score": 0.45
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article discusses chronic school absenteeism, its impact on student outcomes, and legislative/education department actions, which directly relates to K‑12 education policy."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Maryland Board of Education President Clarence Crawford",
+      "Attendance Works senior fellow Sue Fothergill",
+      "Governor Wes Moore"
+    ],
+    "places": [
+      "Maryland",
+      "Baltimore City",
+      "Baltimore County",
+      "Washington, D.C."
+    ],
+    "organizations": [
+      "Maryland State Department of Education",
+      "Maryland Association of Boards of Education",
+      "Public School Superintendents' Association of Maryland",
+      "Maryland Board of Education",
+      "Attendance Works",
+      "Ways and Means Committee",
+      "Maryland House of Delegates",
+      "Maryland Senate",
+      "General Assembly",
+      "Blueprint for Maryland's Future"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Caroline students sign apprenticeship agreements",
+    "date": "2024-02-14",
+    "author": "Connie Connolly",
+    "docref": "news/19738B694E3E6878",
+    "article_id": "search-hits__hit--5887",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 14,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.94,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.94
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.62
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article reports on Caroline County Public Schools signing youth apprenticeship agreements, focusing on student career readiness and school programs, which aligns most closely with the Education topic."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Caroline County Superintendent Derek Simmons",
+      "CCPS Technology Supervisor Jason Wielgosz",
+      "CCPS Food Services Chef David Murray",
+      "CCPS Youth Apprenticeship Coordinator Eric Cook",
+      "Assistant Superintendent Milton Nagel",
+      "CCPS Director of College and Career Readiness Lindsey McCormick",
+      "Maryland State Department of Education Director of Apprenticeships Tracy Kyttle",
+      "Maryland State Department of Education Career Programs and Apprenticeship Specialist Jennifer Griffin",
+      "Maryland State Department of Education Career and Technical Education Associate Pamela Clay",
+      "Dorchester County Public Schools Career Coach Shay Lewis-Sisco"
+    ],
+    "places": [
+      "Caroline County",
+      "Denton",
+      "Dorchester County"
+    ],
+    "organizations": [
+      "Caroline County Public Schools",
+      "CCPS Technology Department",
+      "Chesapeake Culinary Arts Center",
+      "Maryland State Department of Education",
+      "Dorchester County Public Schools",
+      "CCPS Youth Apprenticeship Program"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "DCPS announces teacher awards finalists",
+    "date": "2024-02-14",
+    "author": "MAGGIE TROVATO mtrovato@chespub.com",
+    "docref": "news/19738B6973E2BED0",
+    "article_id": "search-hits__hit--5873",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 14,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article reports on Dorchester County Public Schools announcing finalists for Teacher of the Year awards, which directly pertains to the education sector."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Emma Brant, 3rd grade teacher",
+      "Jennifer Filopovic, kindergarten teacher",
+      "Katelyn Robinson, pre‑K teacher",
+      "Christy Starling, pre‑K teacher",
+      "Christie Carels, 4th grade teacher",
+      "Heather Rhinehart, 2nd grade teacher",
+      "Colleen Carney, social studies teacher",
+      "Anthony Thomas, homeland security and emergency preparedness and criminal justice teacher",
+      "Kaylen Trice, science teacher",
+      "Kierra Farrare, mathematics teacher",
+      "Crystal Carpenter, mathematics teacher",
+      "Jordan Lewis, pre‑K teacher",
+      "Devyn Thompson, reading and language arts teacher",
+      "Haley Wright, 4th grade teacher",
+      "Brianna Sann, 1st grade teacher"
+    ],
+    "places": [
+      "Dorchester County",
+      "Cambridge"
+    ],
+    "organizations": [
+      "Dorchester County Public Schools",
+      "Maryland Teacher of the Year program"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "New Fellowship of Christian Athletes club unites and inspires students",
+    "date": "2024-02-14",
+    "author": "TAMARA FORTE Special to the Star Democrat",
+    "docref": "news/1973D6AF80A97EA0",
+    "article_id": "search-hits__hit--5872",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 14,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.88,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.88
+        },
+        {
+          "topic": "Sports",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.3
+        }
+      ],
+      "explanation": "The article describes a new school-based club for students and teachers, focusing on its role in the classroom and community, which aligns most closely with the Education category, with Sports as a secondary theme."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "FCA Area Director Jeff Simmons",
+      "Seventh Grade Social Studies teacher Thomas Hayman"
+    ],
+    "places": [
+      "Centreville, MD",
+      "Queen Anne's County, Maryland",
+      "Talbot County, Maryland"
+    ],
+    "organizations": [
+      "Fellowship of Christian Athletes",
+      "Centreville Middle School",
+      "Queen Anne's County Public Schools"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Talbot Board of Education passes FY2025 budget",
+    "date": "2024-02-16",
+    "author": "Maggie Trovato",
+    "docref": "news/1973D6AFEE317468",
+    "article_id": "search-hits__hit--5856",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 16,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.65
+        },
+        {
+          "topic": "Business/Economy",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article discusses the Talbot County Board of Education approving the FY2025 school budget, which is directly related to education policy and funding."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Talbot County Public Schools Chief Financial Officer Sarah Jones",
+      "Talbot County Public Schools Superintendent Sharon Pepukayi",
+      "Talbot County Public Schools Director of Communications Debbie Gardner",
+      "Talbot Board of Education President Emily Jackson"
+    ],
+    "places": [
+      "Talbot County",
+      "Easton",
+      "St. Michaels"
+    ],
+    "organizations": [
+      "Talbot County Public Schools",
+      "Talbot Board of Education",
+      "Talbot County Council",
+      "Chapel District Elementary School",
+      "Easton High School",
+      "Easton Elementary School",
+      "St. Michaels Elementary School",
+      "Elementary and Secondary School Emergency Relief Fund",
+      "Maryland Leads grant"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "TCPS gives Blueprint updates",
+    "date": "2024-02-16",
+    "author": "Maggie Trovato",
+    "docref": "news/1973D6AFE3D75AA0",
+    "article_id": "search-hits__hit--5854",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 16,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.96,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.96
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.68
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article discusses updates to the Blueprint for Maryland's Future, a statewide education reform and funding plan, presented at a county Board of Education meeting, making education the primary focus."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Talbot County Assistant Superintendent for Curriculum and Instruction Helga Einhorn",
+      "Strategic Facilitator Sharon Gaskins"
+    ],
+    "places": [
+      "Easton, Maryland",
+      "Talbot County, Maryland"
+    ],
+    "organizations": [
+      "Talbot County Board of Education",
+      "Talbot County Public Schools",
+      "Maryland State Department of Education",
+      "Accountability and Implementation Board"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "Free young gardeners event at library",
+    "date": "2024-02-16",
+    "author": "Staff Writer",
+    "docref": "news/1973EB2931762F88",
+    "article_id": "search-hits__hit--5842",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 16,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.78,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.78
+        },
+        {
+          "topic": "Environment",
+          "score": 0.12
+        },
+        {
+          "topic": "Entertainment",
+          "score": 0.07
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.03
+        }
+      ],
+      "explanation": "The article announces a free STEM gardening event for elementary‑school children, emphasizing learning and youth education, making Education the most fitting category."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [],
+    "places": [
+      "Easton, Maryland"
+    ],
+    "organizations": [
+      "Talbot County Garden Club",
+      "Talbot County Free Library",
+      "Talbot County Garden Club's Young Gardeners Committee"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  },
+  {
+    "title": "KCPS calendar approved with post Labor Day start",
+    "date": "2024-02-20",
+    "author": "Staff Writer",
+    "docref": "news/19791D43F1449068",
+    "article_id": "search-hits__hit--5808",
+    "content_source": "full_document",
+    "year": 2024,
+    "month": 2,
+    "day": 20,
+    "llm_classification": {
+      "topic": "Education",
+      "score": 0.97,
+      "candidates": [
+        {
+          "topic": "Education",
+          "score": 0.97
+        },
+        {
+          "topic": "Local Government",
+          "score": 0.65
+        },
+        {
+          "topic": "Public Notices",
+          "score": 0.45
+        }
+      ],
+      "explanation": "The article discusses the approval of a school calendar by the Kent County Board of Education, which directly pertains to the education system."
+    },
+    "llm_classification_meta": {
+      "model": "gpt-oss:120b",
+      "llm_failed": false
+    },
+    "people": [
+      "Kent County Public Schools Supervisor Dan Hushion"
+    ],
+    "places": [
+      "Kent County, Maryland"
+    ],
+    "organizations": [
+      "Kent County Board of Education",
+      "Kent County Public Schools",
+      "State of Maryland"
+    ],
+    "entity_extraction_model": "gpt-oss:120b"
+  }
+]
